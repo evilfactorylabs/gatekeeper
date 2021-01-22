@@ -1,0 +1,3 @@
+[submodule "steven-black-hosts"]
+	path = steven-black-hosts
+	url = https://github.com/StevenBlack/hosts.git
