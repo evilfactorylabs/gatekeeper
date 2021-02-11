@@ -17,6 +17,7 @@ koleksi hostname yang diblokir oleh jaringan evilfactorylabs yg edgy
 - jaringan pelacak
 - situs judi
 - situs scam
+- situs berita palsu
 - os telemetry
 - malware (dan "malvertising")
 - spyware
