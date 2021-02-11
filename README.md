@@ -1,6 +1,6 @@
 # gatekeeper
 
-koleksi hostname yang diblokir oleh jaringan evilfactorylabs yg edgy
+makes the internet less sucks
 
 ## daftar
 
