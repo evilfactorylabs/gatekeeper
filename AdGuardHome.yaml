@@ -1,0 +1,136 @@
+bind_host: 192.46.225.58
+bind_port: 8080
+beta_bind_port: 0
+users:
+- name: dns
+  password: $2a$10$reWvCMcfe6SPchu2gKuAaeKWpICd311BZX6qVH3tes4npDNncGSse
+http_proxy: ""
+language: ""
+rlimit_nofile: 0
+debug_pprof: false
+web_session_ttl: 720
+dns:
+  bind_host: 0.0.0.0
+  port: 53
+  statistics_interval: 1
+  querylog_enabled: false
+  querylog_file_enabled: true
+  querylog_interval: 1
+  querylog_size_memory: 1000
+  anonymize_client_ip: true
+  protection_enabled: true
+  blocking_mode: default
+  blocking_ipv4: ""
+  blocking_ipv6: ""
+  blocked_response_ttl: 10
+  parental_block_host: family-block.dns.adguard.com
+  safebrowsing_block_host: standard-block.dns.adguard.com
+  ratelimit: 0
+  ratelimit_whitelist: []
+  refuse_any: true
+  upstream_dns:
+  - 127.0.0.1:5353
+  upstream_dns_file: ""
+  bootstrap_dns:
+  - 127.0.0.1:5353
+  all_servers: false
+  fastest_addr: false
+  allowed_clients: []
+  disallowed_clients: []
+  blocked_hosts:
+  - version.bind
+  - id.server
+  - hostname.bind
+  cache_size: 4194304
+  cache_ttl_min: 0
+  cache_ttl_max: 0
+  bogus_nxdomain: []
+  aaaa_disabled: false
+  enable_dnssec: true
+  edns_client_subnet: false
+  max_goroutines: 300
+  ipset: []
+  filtering_enabled: true
+  filters_update_interval: 24
+  parental_enabled: false
+  safesearch_enabled: false
+  safebrowsing_enabled: false
+  safebrowsing_cache_size: 1048576
+  safesearch_cache_size: 1048576
+  parental_cache_size: 1048576
+  cache_time: 30
+  rewrites:
+  - domain: coba.dong
+    answer: 10.6.6.6
+  - domain: resly
+    answer: 100.87.234.49
+  - domain: jasmine
+    answer: 100.75.170.28
+  - domain: karina
+    answer: 100.113.100.9
+  blocked_services: []
+  customresolver: null
+tls:
+  enabled: true
+  server_name: dns.edgy.network
+  force_https: false
+  port_https: 4343
+  port_dns_over_tls: 853
+  port_dns_over_quic: 784
+  port_dnscrypt: 0
+  dnscrypt_config_file: ""
+  allow_unencrypted_doh: false
+  strict_sni_check: false
+  certificate_chain: ""
+  private_key: ""
+  certificate_path: /var/lib/docker/volumes/devops_caddy_data/_data/caddy/certificates/acme-v02.api.letsencrypt.org-directory/dns.edgy.network/dns.edgy.network.crt
+  private_key_path: /var/lib/docker/volumes/devops_caddy_data/_data/caddy/certificates/acme-v02.api.letsencrypt.org-directory/dns.edgy.network/dns.edgy.network.key
+filters:
+- enabled: true
+  url: https://adaway.org/hosts.txt
+  name: AdAway Default Blocklist
+  id: 2
+- enabled: true
+  url: https://someonewhocares.org/hosts/zero/hosts
+  name: Dan Pollock's List
+  id: 1611309827
+- enabled: true
+  url: https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/steven-black-hosts/alternates/fakenews-gambling/hosts
+  name: evilfactorylabs/gatekeeper steven-black-hosts
+  id: 1611413250
+- enabled: true
+  url: https://dbl.oisd.nl/
+  name: oisd.nl
+  id: 1611661520
+- enabled: true
+  url: https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/native.txt
+  name: evilfactorylabs/gatekeeper native
+  id: 1612974007
+whitelist_filters: []
+user_rules:
+- ""
+dhcp:
+  enabled: false
+  interface_name: ""
+  dhcpv4:
+    gateway_ip: ""
+    subnet_mask: ""
+    range_start: ""
+    range_end: ""
+    lease_duration: 0
+    icmp_timeout_msec: 1000
+    options: []
+  dhcpv6:
+    range_start: ""
+    lease_duration: 0
+    ra_slaac_only: false
+    ra_allow_slaac: false
+clients: []
+log_compress: false
+log_localtime: false
+log_max_backups: 0
+log_max_size: 100
+log_max_age: 3
+log_file: ""
+verbose: false
+schema_version: 7
