@@ -10,6 +10,7 @@ makes the internet less sucks
 - [AdAway Default Blocklist](https://adaway.org/hosts.txt) (> 9k hosts)
 - [Dan Pollock's List](https://someonewhocares.org/hosts/zero/hosts) (> 14k hosts)
 - [oisd.nl](https://dbl.oisd.nl) (> 1m hosts)
+- [ABPIndo (No element hide)](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt) (> 4k hosts)
 
 ## kategori yang diblokir
 
