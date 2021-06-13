@@ -6,11 +6,11 @@ makes the internet less sucks
 
 - [evilfactorylabs/gatekeeper steven-black-hosts](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/steven-black-hosts/alternates/fakenews-gambling/hosts) (> 63k hosts)
 - [evilfactorylabs/gatekeeper native](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/native.txt) (< 50 hosts)
+- [evilfactorylabs/gatekeeper ABPIndo (No element hide)](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/ABPIndo/subscriptions/abpindo_noelemhide.txt) (> 4k hosts)
 - [AdGuard DNS filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) (> 40k hosts)
 - [AdAway Default Blocklist](https://adaway.org/hosts.txt) (> 9k hosts)
 - [Dan Pollock's List](https://someonewhocares.org/hosts/zero/hosts) (> 14k hosts)
 - [oisd.nl](https://dbl.oisd.nl) (> 1m hosts)
-- [ABPIndo (No element hide)](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt) (> 4k hosts)
 
 ## kategori yang diblokir
 
