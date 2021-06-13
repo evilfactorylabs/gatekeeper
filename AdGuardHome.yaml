@@ -30,9 +30,11 @@ dns:
   refuse_any: true
   upstream_dns:
   - 127.0.0.1:5353
+  - 127.0.0.1:5354
   upstream_dns_file: ""
   bootstrap_dns:
-  - 127.0.0.1:5353
+  - 149.112.112.10
+  - 2620:fe::10
   all_servers: false
   fastest_addr: false
   allowed_clients: []
@@ -62,12 +64,6 @@ dns:
   rewrites:
   - domain: coba.dong
     answer: 10.6.6.6
-  - domain: resly
-    answer: 100.87.234.49
-  - domain: jasmine
-    answer: 100.75.170.28
-  - domain: karina
-    answer: 100.113.100.9
   blocked_services: []
   customresolver: null
 tls:
