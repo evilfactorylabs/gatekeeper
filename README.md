@@ -1,15 +1,16 @@
 # gatekeeper
 
-makes the internet less sucks
+let's make the internet less sucks
 
 ## daftar
 
-- [evilfactorylabs/gatekeeper steven-black-hosts](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/steven-black-hosts/alternates/fakenews-gambling/hosts) (> 63k hosts)
-- [evilfactorylabs/gatekeeper native](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/native.txt) (< 50 hosts)
+- [evilfactorylabs/gatekeeper steven-black-hosts](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/steven-black-hosts/alternates/fakenews-gambling/hosts) (> 85k hosts)
+- [evilfactorylabs/gatekeeper native](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/native.txt) (< 500 hosts)
 - [evilfactorylabs/gatekeeper ABPIndo (No element hide)](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/ABPIndo/subscriptions/abpindo_noelemhide.txt) (> 4k hosts)
 - [AdGuard DNS filter](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) (> 40k hosts)
-- [AdAway Default Blocklist](https://adaway.org/hosts.txt) (> 9k hosts)
-- [Dan Pollock's List](https://someonewhocares.org/hosts/zero/hosts) (> 14k hosts)
+- [evilfactroylabs/gatekeeper AdGuard CNAME disguised trackers list](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/steven-black-hosts/data/Adguard-cname/hosts) (> 10k hosts)
+- [evilfactorylabs/gatekeeper AdAway Default Blocklist](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/steven-black-hosts/data/adaway.org/hosts) (> 9k hosts)
+- [Dan Pollock's List](https://raw.githubusercontent.com/evilfactorylabs/gatekeeper/main/steven-black-hosts/data/someonewhocares.org/hosts) (> 15k hosts)
 - [oisd.nl](https://dbl.oisd.nl) (> 1m hosts)
 
 ## kategori yang diblokir
@@ -49,7 +50,7 @@ Lalu lakukan DNS query ke `coba.dong` dengan perintah berikut jika menggunakan `
 dig coba.dong
 ```
 
-Jika jawabannya adalah alamat ip dari subnet 10.0.0.0/8 (e.g: 10.6.6.6), berarti dns query sudah dilakukan melalui edgy DNS! Namun jika yang muncul adalah alamat IP asing seperti 36.86.xx.xx, berarti query DNS dijawab oleh ISP yang kamu gunakan :))
+Jika jawabannya adalah 10.6.6.6, berarti dns query sudah dilakukan melalui edgyDNS! Namun jika yang muncul adalah alamat IP asing seperti 36.86.xx.xx, berarti query DNS dijawab oleh ISP yang kamu gunakan :))
 
 Pastikan DNS server yang digunakan (bisa di cek di `/etc/resolv.conf` atau sejenisnya) adalah ke 127.0.0.1 dan port 53 tersedia sebelum menjalankan `dnsproxy`.
 
