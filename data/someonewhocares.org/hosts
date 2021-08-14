@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 26 Jun 2021 at 00:06:04 GMT
+# Last updated: Mon, 09 Aug 2021 at 01:57:44 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -443,6 +443,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 api2.murdoog.com
 0.0.0.0 apiadapter.ad5track.com
 0.0.0.0 apis.murdoog.com
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app.yesware.com
 0.0.0.0 apple.com-onlinesupport.host
@@ -2192,6 +2193,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 alltereg0.ru
 0.0.0.0 alocdn.com
 0.0.0.0 alphabirdnetwork.com
+0.0.0.0 ama.leftwarning.com
 0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 andrionmobileapp.bid
 0.0.0.0 android.bigresource.com
@@ -2535,6 +2537,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 lacableshaw.com
 0.0.0.0 lactofketharma.pro
 0.0.0.0 laleh.itrc.ac.ir
+0.0.0.0 landingairquality.airlite.com
 0.0.0.0 lank.ru
 0.0.0.0 lastworking.theforcontentingflashupgrade.icu
 0.0.0.0 levenshteinanswer.com
@@ -2764,7 +2767,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 pdns.nudt.edu.cn
 0.0.0.0 personalantispy.com
 0.0.0.0 petra.nic.gov.jo
-0.0.0.0 phatthalung.go.th
 0.0.0.0 phorm.biz.tr
 0.0.0.0 phorm.ch
 0.0.0.0 phorm.cl
@@ -2798,6 +2800,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 phpancake.com
 0.0.0.0 picture-uploads.com
 0.0.0.0 pigredoben12.sytes.net
+0.0.0.0 pillsselect.com
 0.0.0.0 pilltabletsrxbargain.net
 0.0.0.0 play6932.fuckingmonday113.agency
 0.0.0.0 poonstwifterspick.work
@@ -2839,6 +2842,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 reward-survey.net
 0.0.0.0 reward5363.hardmonday53.agency
 0.0.0.0 rickrolling.com
+0.0.0.0 rifec.co
 0.0.0.0 rocks.io
 0.0.0.0 roifmd.info
 0.0.0.0 romdiscover.com
@@ -2887,6 +2891,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sedesol.sedesol.gob.mx
 0.0.0.0 seeques.com
 0.0.0.0 segob.gob.mx
+0.0.0.0 selectpills.com
 0.0.0.0 servamain.ddns.net
 0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
 0.0.0.0 setupupgrade12.thepointofforcontentingperfect.win
@@ -2933,6 +2938,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 start.qip.ru
 0.0.0.0 stats.oix.com
 0.0.0.0 statutorjuihui.site
+0.0.0.0 steelbitepro24.com
 0.0.0.0 stellarium.fr
 0.0.0.0 stopphoulplay.com
 0.0.0.0 stopphoulplay.net
@@ -3039,12 +3045,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 wait3sec.org
 0.0.0.0 waldenfarms.com
 0.0.0.0 waudeesestew.com
+0.0.0.0 weapfuh.originalriver-tone.top
 0.0.0.0 web-ccfr.tsinghua.edu.cn
 0.0.0.0 webassembly.stream
 0.0.0.0 weblover.info
 0.0.0.0 webnavegador.com.br
 0.0.0.0 webnetra.entelnet.bo
 0.0.0.0 webpaypal.com
+0.0.0.0 webpillsshop.com
 0.0.0.0 webserv.mos.ru
 0.0.0.0 webwise.com
 0.0.0.0 webwise.net
@@ -3221,6 +3229,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
 0.0.0.0 www.proflashdata.com			# Facebook trojan
+0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.puush.in
 0.0.0.0 www.pyilgdamion.city
 0.0.0.0 www.qbittorrent.com
@@ -6033,6 +6042,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads.seattletimes.com
 0.0.0.0 ads.seriouswheels.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.sexier.com
 0.0.0.0 ads.sfusion.com
 0.0.0.0 ads.shiftdelete.net
@@ -7095,6 +7105,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 api.viglink.com
 0.0.0.0 api.zhy333.com
 0.0.0.0 apopt.hbmediapro.com
+0.0.0.0 aporasal.net
 0.0.0.0 app-measurement.com
 0.0.0.0 app.datafastguru.info
 0.0.0.0 app.fancifulapp.cool
@@ -7211,6 +7222,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 asn.advolution.de
 0.0.0.0 asn.cunda.advolution.biz
 0.0.0.0 aspesa.info
+0.0.0.0 assets.adnuntius.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.igapi.com
 0.0.0.0 assets.kixer.com
@@ -7752,6 +7764,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cdn-onedrive-live.com
 0.0.0.0 cdn.8digits.com
 0.0.0.0 cdn.acloudvideos.com
+0.0.0.0 cdn.ad.citynews.it
 0.0.0.0 cdn.ad.plus
 0.0.0.0 cdn.adigniter.org
 0.0.0.0 cdn.adikteev.com
@@ -8301,6 +8314,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 defpush.com
 0.0.0.0 del1.phillyburbs.com
 0.0.0.0 delb.mspaceads.com
+0.0.0.0 delivery.adnuntius.com
 0.0.0.0 delivery.adyea.com
 0.0.0.0 delivery.clickonometrics.pl
 0.0.0.0 delivery.myswitchads.com
@@ -8589,6 +8603,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evroteplo.ru
 0.0.0.0 excellent.michaelanthonyrobinson.com
+0.0.0.0 exchange.scalemonk.com
 0.0.0.0 exclusivegiftcards.com
 0.0.0.0 exits1.webquest.net
 0.0.0.0 exits2.webquest.net
@@ -10122,6 +10137,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 monstersandcritics.advertserve.com
 0.0.0.0 moodoo.com.cn
 0.0.0.0 moodoocrv.com.cn
+0.0.0.0 moodretrieval.com
 0.0.0.0 mop-shere.com
 0.0.0.0 morefastermac.trade
 0.0.0.0 morefreecamsecrets.com
@@ -11282,6 +11298,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 s.megaclick.com
 0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
+0.0.0.0 s.optnx.com
 0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
 0.0.0.0 s.rev2pub.com
@@ -11334,6 +11351,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc9.admob.com
+0.0.0.0 scalemonk.com
 0.0.0.0 scdown.qq.com
 0.0.0.0 scegli-vinci.it
 0.0.0.0 scgis.co.uk
@@ -11499,6 +11517,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sgs001.adtech.us
 0.0.0.0 sh2070.evanzo-server.de
 0.0.0.0 sh4sure-images.adbureau.net
+0.0.0.0 sha1.videotrek.co
 0.0.0.0 share-clouds.com
 0.0.0.0 share-downloading.com
 0.0.0.0 share-server.com
@@ -12417,6 +12436,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 vrt.outbrain.com
 0.0.0.0 vu.veoxa.com
 0.0.0.0 vxluvrwzs.cinci.rr.com
+0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vzarabotke.ru
 0.0.0.0 w-chat.xf.cz
 0.0.0.0 w.admob.com
@@ -12738,6 +12758,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.adocean.pl
 0.0.0.0 www.adotube.com
 0.0.0.0 www.adpepper.dk
+0.0.0.0 www.adpmbtj.com
 0.0.0.0 www.adpowerzone.com
 0.0.0.0 www.adquest3d.com
 0.0.0.0 www.adreporting.com
@@ -12946,6 +12967,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cati.com.tw
 0.0.0.0 www.cdn.taboola.com
 0.0.0.0 www.cdn.taboolasyndication.com
+0.0.0.0 www.cdn4ads.com
 0.0.0.0 www.cell-phone-giveaways.com
 0.0.0.0 www.cellphoneincentives.com
 0.0.0.0 www.chainsawoffer.com
@@ -14045,6 +14067,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 zads.zedo.com
 0.0.0.0 zapadserver1.com
 0.0.0.0 zapcdn.space
+0.0.0.0 zazerygu.pro
 0.0.0.0 zc1.delta-boa.com
 0.0.0.0 zc1.zeroredirect11.com
 0.0.0.0 zdads.e-media.com

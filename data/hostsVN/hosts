@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 24 Jun 2021 21:05 UTC+7
-# Version: 2106242105
-# Blocked: 1,813 domains
+# Last modified: 09 Aug 2021 17:14 UTC+7
+# Version: 2108091714
+# Blocked: 1,832 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -243,7 +243,6 @@
 0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 metrics.coccoc.com
-0.0.0.0 nt-cdn.coccoc.com
 0.0.0.0 qc-static.coccoc.com
 0.0.0.0 shop-cdn.coccoc.com
 0.0.0.0 shopping.coccoc.com
@@ -1041,9 +1040,11 @@
 0.0.0.0 sourcetobin.com
 0.0.0.0 static.sourcetobin.com
 #[philacct.com]
+0.0.0.0 fgp.philacct.com
 0.0.0.0 philacct.com
 0.0.0.0 static.philacct.com
 #[contineljs.com]
+0.0.0.0 cdn.contineljs.com
 0.0.0.0 contineljs.com
 0.0.0.0 defaultdsp.contineljs.com
 0.0.0.0 static.contineljs.com
@@ -1494,6 +1495,21 @@
 #[adconnect.vn]
 0.0.0.0 adconnect.vn
 0.0.0.0 static.adconnect.vn
+#[bongdadem.net]
+0.0.0.0 api.bongdadem.net
+0.0.0.0 bongdadem.net
+0.0.0.0 cdn.bongdadem.net
+0.0.0.0 www.bongdadem.net
+#[cdn.ampproject.org]
+0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
+0.0.0.0 anymind360-com.cdn.ampproject.org
+0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
+0.0.0.0 log-vietnamplus-vn.cdn.ampproject.org
+0.0.0.0 sbbanner-com.cdn.ampproject.org
+0.0.0.0 static-addtoany-com.cdn.ampproject.org
+#[chin-adnetwork.com]
+0.0.0.0 chin-adnetwork.com
+0.0.0.0 js.chin-adnetwork.com
 # --- Block adsVN ---
 0.0.0.0 5734a40f2d.vws.vegacdn.vn
 0.0.0.0 703531862.vws.vegacdn.vn
@@ -1519,7 +1535,6 @@
 0.0.0.0 adjusts.info
 0.0.0.0 adm.phunusuckhoe.vn
 0.0.0.0 adm.phunuvagiadinh.vn
-0.0.0.0 admedia.com.vn
 0.0.0.0 admin.sothuchi.vn
 0.0.0.0 adpostback.headlines.pw
 0.0.0.0 ads-api.playfun.vn
@@ -1559,6 +1574,7 @@
 0.0.0.0 ads.phunuvagiadinh.vn
 0.0.0.0 ads.songmoi.vn
 0.0.0.0 ads.suckhoegiadinh.com.vn
+0.0.0.0 ads.thanhnien.vn
 0.0.0.0 ads.thegioitiepthi.vn
 0.0.0.0 ads.thesaigontimes.vn
 0.0.0.0 ads.thitruongtaichinhtiente.vn
@@ -1576,6 +1592,7 @@
 0.0.0.0 adserver.muaban.net
 0.0.0.0 adserver.trangphim.net
 0.0.0.0 adsgo.nhipcaudautu.vn
+0.0.0.0 adsnetonline.work
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
@@ -1626,11 +1643,10 @@
 0.0.0.0 bluemaulpuffs.com
 0.0.0.0 boxpr.aiservice.vn
 0.0.0.0 cdn-ads.thesaigontimes.vn
-0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
-0.0.0.0 cdn.bongdadem.net
 0.0.0.0 cdnasset.dantri.com.vn
 0.0.0.0 chiasephim.xyz
 0.0.0.0 click-ads.saoteen.net
+0.0.0.0 click.vieon.vn
 0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
 0.0.0.0 core.vnecdn.com
@@ -1653,6 +1669,7 @@
 0.0.0.0 ghimc.vn
 0.0.0.0 go.vnecdn.com
 0.0.0.0 hexapinow.xyz
+0.0.0.0 imad24.com
 0.0.0.0 imgcdnbet.com
 0.0.0.0 interactive.tinnhanhchungkhoan.vn
 0.0.0.0 ketquaxosotoancau.org
@@ -1713,6 +1730,7 @@
 0.0.0.0 vnd247.vn
 0.0.0.0 vtvcab.xyz
 0.0.0.0 widget.headlines.pw
+0.0.0.0 www.adsnetonline.work
 0.0.0.0 www.adsweb.vn
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.advertisement-nhatanh.com
@@ -1848,6 +1866,7 @@
 0.0.0.0 logapi.misa.com.vn
 0.0.0.0 logen.vietnamplus.vn
 0.0.0.0 logg4u.cnnd.vn
+0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logs.giaoducthoidai.vn
 0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logs1.reatimes.vn
@@ -1933,6 +1952,7 @@
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
 0.0.0.0 userstats.shopee.vn
+0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vtrack.vht.com.vn
 0.0.0.0 webpush.bizfly.vn
@@ -1954,6 +1974,8 @@
 0.0.0.0 irduwhojas.ga
 0.0.0.0 kaurroot.com
 0.0.0.0 larpollicwilli.club
+0.0.0.0 lib1.biz
+0.0.0.0 news-good.net
 0.0.0.0 rituationscardb.info
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 smilitygorb.club
