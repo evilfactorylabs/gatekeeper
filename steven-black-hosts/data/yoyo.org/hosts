@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 25 Jun 2021 13:32:59 GMT
-# entries:        3627
+# last updated:   Fri, 06 Aug 2021 14:49:42 GMT
+# entries:        3625
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 03 Jul 2001 00:00:00
+# start date:    Tue, 14 Aug 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -140,7 +140,6 @@
 0.0.0.0 ad.exyws.org
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
-0.0.0.0 ad.freecity.de
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
@@ -289,6 +288,7 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adimg1.chosun.com
 0.0.0.0 adimgs.sapo.pt
+0.0.0.0 adingo.jp
 0.0.0.0 adinjector.net
 0.0.0.0 adinterax.com
 0.0.0.0 adisfy.com
@@ -375,6 +375,7 @@
 0.0.0.0 adreporting.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adriver.ru
+0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
@@ -505,7 +506,6 @@
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
-0.0.0.0 ads.freecity.de
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.gamecity.net
 0.0.0.0 ads.gamershell.com
@@ -513,7 +513,6 @@
 0.0.0.0 ads.gamigo.de
 0.0.0.0 ads.gaming-universe.de
 0.0.0.0 ads.gaming1.com
-0.0.0.0 ads.gawker.com
 0.0.0.0 ads.gaypoint.hu
 0.0.0.0 ads.geekswithblogs.net
 0.0.0.0 ads.getlucky.com
@@ -538,6 +537,7 @@
 0.0.0.0 ads.hollywood.com
 0.0.0.0 ads.horsehero.com
 0.0.0.0 ads.horyzon-media.com
+0.0.0.0 ads.hsoub.com
 0.0.0.0 ads.ibest.com.br
 0.0.0.0 ads.ibryte.com
 0.0.0.0 ads.icq.com
@@ -623,6 +623,7 @@
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.oxyshop.cz
 0.0.0.0 ads.passion.com
+0.0.0.0 ads.paymonex.net
 0.0.0.0 ads.pennet.com
 0.0.0.0 ads.pexi.nl
 0.0.0.0 ads.pfl.ua
@@ -751,6 +752,7 @@
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.gamecity.net
+0.0.0.0 ads2.hsoub.com
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
 0.0.0.0 ads2.rne.com
@@ -811,9 +813,9 @@
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.ekokatu.com
-0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
+0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
@@ -839,8 +841,10 @@
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.scr.sk
 0.0.0.0 adserver.sharewareonline.com
+0.0.0.0 adserver.smgfiles.com
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.trojaner-info.de
+0.0.0.0 adserver.tupolska.com
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 adserver.yahoo.com
@@ -917,7 +921,6 @@
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
-0.0.0.0 adtrak.net
 0.0.0.0 adtriplex.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
@@ -1024,7 +1027,6 @@
 0.0.0.0 alchemist.go2cloud.org
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
-0.0.0.0 alert.com.mt
 0.0.0.0 alertafterthought.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
 0.0.0.0 alexametrics.com
@@ -1050,6 +1052,7 @@
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.dnsfilter.com
+0.0.0.0 analytics.emarketer.com
 0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 analytics.fkz.re
 0.0.0.0 analytics.google.com
@@ -1081,11 +1084,13 @@
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 annoyedairport.com
+0.0.0.0 annoyingacoustics.com
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anstrex.com
 0.0.0.0 anuncios.edicaoms.com.br
 0.0.0.0 anxiousapples.com
 0.0.0.0 apathetictheory.com
+0.0.0.0 api.amplitude.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 api.kameleoon.com
 0.0.0.0 apolloprogram.io
@@ -1167,7 +1172,6 @@
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.interich.com
 0.0.0.0 banner.inyourpocket.com
-0.0.0.0 banner.kiev.ua
 0.0.0.0 banner.linux.se
 0.0.0.0 banner.media-system.de
 0.0.0.0 banner.mindshare.de
@@ -1419,6 +1423,7 @@
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.fool.com
+0.0.0.0 click.kmindex.ru
 0.0.0.0 click.negociosdigitaisnapratica.com.br
 0.0.0.0 click.redditmail.com
 0.0.0.0 click.twcwigs.com
@@ -1467,6 +1472,7 @@
 0.0.0.0 clktrx.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 cloudcoins.biz
+0.0.0.0 cloudflareinsights.com
 0.0.0.0 clrstm.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
@@ -1499,6 +1505,7 @@
 0.0.0.0 connectad.io
 0.0.0.0 connextra.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 consciouscheese.com
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
 0.0.0.0 contadores.miarroba.com
@@ -1538,6 +1545,7 @@
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
+0.0.0.0 counting.kmindex.ru
 0.0.0.0 coupling-media.de
 0.0.0.0 coxmt.com
 0.0.0.0 cp.abbp1.pw
@@ -1553,6 +1561,7 @@
 0.0.0.0 craktraffic.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 cratecamera.com
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
 0.0.0.0 crazyegg.com
@@ -1637,7 +1646,6 @@
 0.0.0.0 discountclick.com
 0.0.0.0 discreetfield.com
 0.0.0.0 dispensablestranger.com
-0.0.0.0 displayadsmedia.com
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
@@ -1708,7 +1716,6 @@
 0.0.0.0 elitetoplist.com
 0.0.0.0 elthamely.com
 0.0.0.0 em1.yoursantander.co.uk
-0.0.0.0 emarketer.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
 0.0.0.0 emerse.com
@@ -1723,6 +1730,7 @@
 0.0.0.0 energeticladybug.com
 0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.webshrinker.com
+0.0.0.0 engage.windows.com
 0.0.0.0 engagebdr.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
@@ -2129,6 +2137,7 @@
 0.0.0.0 kameleoon.eu
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
+0.0.0.0 karonty.com
 0.0.0.0 keymedia.hu
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
@@ -2149,8 +2158,6 @@
 0.0.0.0 kubient.com
 0.0.0.0 l1.britannica.com
 0.0.0.0 l6b587txj1.com
-0.0.0.0 ladsreds.com
-0.0.0.0 ladsup.com
 0.0.0.0 lakequincy.com
 0.0.0.0 lameletters.com
 0.0.0.0 lanistaads.com
@@ -2171,7 +2178,6 @@
 0.0.0.0 leaplunchroom.com
 0.0.0.0 lemmatechnologies.com
 0.0.0.0 lettucelimit.com
-0.0.0.0 levelrate.de
 0.0.0.0 lever-analytics.com
 0.0.0.0 lfeeder.com
 0.0.0.0 lfstmedia.com
@@ -2288,7 +2294,6 @@
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomo.kmkb.ru
-0.0.0.0 matomo.oka-zakaz.ru
 0.0.0.0 matomo.zwetok.ru
 0.0.0.0 mautic.com
 0.0.0.0 max.i12.de
@@ -2432,7 +2437,6 @@
 0.0.0.0 naradxb.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeroll.tv
-0.0.0.0 naturalbid.com
 0.0.0.0 navegg.com
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
@@ -2572,7 +2576,6 @@
 0.0.0.0 p.nag.ru
 0.0.0.0 p2r14.com
 0.0.0.0 padsbrown.com
-0.0.0.0 padssup.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
@@ -2660,7 +2663,6 @@
 0.0.0.0 popupmoney.com
 0.0.0.0 popupnation.com
 0.0.0.0 popuptraffic.com
-0.0.0.0 porngraph.com
 0.0.0.0 porntrack.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
@@ -2827,7 +2829,6 @@
 0.0.0.0 reklama.mironet.cz
 0.0.0.0 reklamcsere.hu
 0.0.0.0 reklamdsp.com
-0.0.0.0 reklame.unwired-i.net
 0.0.0.0 relevanz10.de
 0.0.0.0 relmaxtop.com
 0.0.0.0 remistrainew.club
@@ -2843,7 +2844,6 @@
 0.0.0.0 revcatch.com
 0.0.0.0 revcontent.com
 0.0.0.0 reveal.clearbit.com
-0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revive.docmatic.org
@@ -2904,7 +2904,6 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s1-adfly.com
 0.0.0.0 s20dh7e9dh.com
-0.0.0.0 s24hc8xzag.com
 0.0.0.0 s2d6.com
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sabio.us
@@ -2961,6 +2960,7 @@
 0.0.0.0 sexinyourcity.com
 0.0.0.0 sexlist.com
 0.0.0.0 sextracker.com
+0.0.0.0 shakegoldfish.com
 0.0.0.0 shakesea.com
 0.0.0.0 shakesuggestion.com
 0.0.0.0 shakytaste.com
@@ -3022,7 +3022,6 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 smrtb.com
 0.0.0.0 snapads.com
-0.0.0.0 sneakystamp.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
 0.0.0.0 softclick.com.br
@@ -3039,6 +3038,7 @@
 0.0.0.0 spacash.com
 0.0.0.0 spaceleadster.com
 0.0.0.0 spannersalesman.com
+0.0.0.0 sparklingshelf.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 specially4u.net
 0.0.0.0 specificmedia.co.uk
@@ -3056,6 +3056,7 @@
 0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 sportsad.net
 0.0.0.0 spot.fitness.com
+0.0.0.0 spotlessstamp.com
 0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
 0.0.0.0 spotxchange.com
@@ -3110,7 +3111,6 @@
 0.0.0.0 stats.self.com
 0.0.0.0 stats.stb-ottow.de
 0.0.0.0 stats.townnews.com
-0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.x14.eu
@@ -3163,6 +3163,7 @@
 0.0.0.0 swimslope.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
+0.0.0.0 t.appsflyer.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.eloqua.com
 0.0.0.0 t.en25.com
@@ -3245,6 +3246,7 @@
 0.0.0.0 ticketaunt.com
 0.0.0.0 ticklesign.com
 0.0.0.0 ticksel.com
+0.0.0.0 tics.techdirt.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tidint.pro
 0.0.0.0 tinybar.com
@@ -3293,13 +3295,12 @@
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.freemmo2017.com
 0.0.0.0 track.game18click.com
-0.0.0.0 track.gawker.com
 0.0.0.0 track.hexcan.com
 0.0.0.0 track.mailerlite.com
+0.0.0.0 track.software-codes.com
 0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.tkbo.com
 0.0.0.0 track.ultravpn.com
-0.0.0.0 track.undressingpics.work
 0.0.0.0 track.unear.net
 0.0.0.0 track.vcdc.com
 0.0.0.0 track.viewdeos.com
@@ -3329,7 +3330,6 @@
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.jiffyworld.com
-0.0.0.0 tracking.lenddom.com
 0.0.0.0 tracking.markethero.io
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.olx-st.com
@@ -3381,7 +3381,6 @@
 0.0.0.0 trickycelery.com
 0.0.0.0 triplelift.com
 0.0.0.0 triptease.io
-0.0.0.0 trix.net
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.enemy-adult-scared-there.xyz
@@ -3547,7 +3546,6 @@
 0.0.0.0 whispa.com
 0.0.0.0 whisperingcrib.com
 0.0.0.0 whoisonline.net
-0.0.0.0 wholesaletraffic.info
 0.0.0.0 widespace.com
 0.0.0.0 widget.privy.com
 0.0.0.0 widgetbucks.com
@@ -3610,6 +3608,7 @@
 0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
+0.0.0.0 yieldoptimizer.com
 0.0.0.0 yieldtraffic.com
 0.0.0.0 yldbt.com
 0.0.0.0 ymetrica1.com
@@ -3637,5 +3636,4 @@
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
 0.0.0.0 zukxd6fkxqn.com
-0.0.0.0 zy16eoat1w.com
 0.0.0.0 zzhc.vnet.cn
