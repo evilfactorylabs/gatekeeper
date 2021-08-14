@@ -105,10 +105,14 @@
 /Banner-Bandar303.gif|$image
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party
+/Betcoin-$image
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
 /NIKMATIQQ.$image
+/PKVHOKI.gif|$image
 /PURIBET.gif|$image
+/Poker228.gif|$image
+/ZEUS%2BPOKER.gif|$image
 /ZEUSPOKER.gif|$image
 /aabet.$image
 /abgqq-$image

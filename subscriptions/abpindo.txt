@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202106110246
+! Version: 202108011137
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 11 Jun 2021 02:46 UTC
+! Last modified: 01 Aug 2021 11:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -389,7 +389,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.asia|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -567,6 +567,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||n21.*/wp-content/uploads/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||newlk21.*/wp-content/uploads/*.gif$image
+||nlop.xyz/dcba/*$xhr,domain=www.kurina.me
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
@@ -1104,6 +1105,7 @@ harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
+kompas.tv###jxOutstreamContainer
 b201.info,bioskop201.biz###kayan_reklam_sag
 b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
@@ -1232,11 +1234,13 @@ file.rocks##.add
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+kompas.tv##.ads-big
 kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 dapurpacu.com##.ads-home
 grid.id##.ads-mr
 tek.id##.ads-popup__inner
+kompas.tv##.ads-right2
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
 terasjakarta.id##.ads.single_post_content
@@ -1370,6 +1374,7 @@ windowsreport.com##.code-block-3.code-block
 dream.co.id##.col-banner
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
+kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
@@ -1433,6 +1438,7 @@ mangacanblog.com##.mas_tamvan
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 www.inibaru.id##.mb-4.bg-grey.text-center
+kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
@@ -1442,6 +1448,7 @@ cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
+kompas.com##.native-wrap
 ns21.tv,ns21.us##.navbar-brand.bot
 detik.com##.normalbanner
 animeindo.id##.nyaa300
@@ -1535,6 +1542,7 @@ omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
+idfl.me##[href="http://bit.ly/adsvbola"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
@@ -4670,6 +4678,8 @@ bioskop78.com##td:nth-of-type(3)
 ##.judi
 ##.togel
 ##[href$="/bandarpokerpulsa"]
+##[href$="/ibetwinasia"]
+##[href$="/mahadewa88"]
 ##[href$="/rajasloto"]
 ##[href="http://probet228.com"]
 ##[href="https://superitc.biz/"]
@@ -4718,6 +4728,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://899bola."]
 ##[href^="http://899cash."]
 ##[href^="http://8mpoker."]
+##[href^="http://8sbopoker.com"]
 ##[href^="http://8togel."]
 ##[href^="http://978bet13.com"]
 ##[href^="http://978bet31.com"]
@@ -5146,6 +5157,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://itutoto."]
 ##[href^="http://ivopoker."]
 ##[href^="http://jagoanpoker99."]
+##[href^="http://jagoonline88."]
 ##[href^="http://jakartaqq."]
 ##[href^="http://jakbos."]
 ##[href^="http://jalanalternatif."]
@@ -5229,6 +5241,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://lapak.poker/"]
 ##[href^="http://lapakdewa."]
 ##[href^="http://lapakgol."]
+##[href^="http://lapakpoker."]
 ##[href^="http://lapakqq."]
 ##[href^="http://lapaksakong."]
 ##[href^="http://lautpoker."]
@@ -5284,6 +5297,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://mantapkiu."]
 ##[href^="http://marina-365."]
 ##[href^="http://maruduthutabarat."]
+##[href^="http://maspoker."]
 ##[href^="http://master138."]
 ##[href^="http://master88."]
 ##[href^="http://masterbaccarat."]
@@ -5411,6 +5425,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://pokerbola."]
 ##[href^="http://pokerdex."]
 ##[href^="http://pokergalaxy."]
+##[href^="http://pokeribc."]
 ##[href^="http://pokerindo99."]
 ##[href^="http://pokerlahan.fun/ref.php"]
 ##[href^="http://pokermeja."]
@@ -5469,6 +5484,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://raja365."]
 ##[href^="http://raja365bos.com"]
 ##[href^="http://raja77."]
+##[href^="http://rajabet.pro"]
 ##[href^="http://rajacapsa."]
 ##[href^="http://rajadewabet."]
 ##[href^="http://rajagaming.com"]
@@ -5866,6 +5882,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://www.indopk365."]
 ##[href^="http://www.indopokers."]
 ##[href^="http://www.indorajaqq."]
+##[href^="http://www.indosevenbet."]
 ##[href^="http://www.indovegas88."]
 ##[href^="http://www.indowin99."]
 ##[href^="http://www.indukbet."]
@@ -5911,6 +5928,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://www.lapakdewa.cc"]
 ##[href^="http://www.lapakgol."]
 ##[href^="http://www.lazacasino."]
+##[href^="http://www.lensa.vip/anichin"]
 ##[href^="http://www.liburpoker."]
 ##[href^="http://www.lig369."]
 ##[href^="http://www.liga-emas."]
@@ -6228,6 +6246,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://prediksidukuntogel.top/"]
 ##[href^="https://pusatbandarq."]
 ##[href^="https://pusatqq."]
+##[href^="https://pusbet3.com"]
 ##[href^="https://pusbet7.com/"]
 ##[href^="https://qqangpao."]
 ##[href^="https://qqemas."]
@@ -6239,6 +6258,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://rajakasino33m."]
 ##[href^="https://rajapoker."]
 ##[href^="https://rajaremi."]
+##[href^="https://ratucapsa365.net"]
 ##[href^="https://refpaqutiu.top/"]
 ##[href^="https://sakong."]
 ##[href^="https://sakongkiu."]
@@ -6254,6 +6274,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://sultanplay.net"]
 ##[href^="https://tbola88."]
 ##[href^="https://undef8trust."]
+##[href^="https://unibet99.me"]
 ##[href^="https://unibetasia."]
 ##[href^="https://vipfc88.com"]
 ##[href^="https://w88mania.com/"]
@@ -7211,6 +7232,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="5Starsbet" i]
 ##img[alt="77 BANDAR" i]
 ##img[alt="777qiuqiu" i]
+##img[alt="77LUCKS" i]
 ##img[alt="7KARTU" i]
 ##img[alt="7UPCASH" i]
 ##img[alt="7naga bet" i]
@@ -7305,6 +7327,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="BERKAHPOKER" i]
 ##img[alt="BETFLIX" i]
 ##img[alt="BIJIQQ" i]
+##img[alt="BIMABET" i]
 ##img[alt="BISAQQ" i]
 ##img[alt="BOLAVITA" i]
 ##img[alt="BONUSQQ" i]
@@ -7528,6 +7551,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="MAINQQ" i]
 ##img[alt="MAJUQQ" i]
 ##img[alt="MAKAUQQ" i]
+##img[alt="MANDALATOTO" i]
 ##img[alt="MANDIRIQQ" i]
 ##img[alt="MARIOQQ" i]
 ##img[alt="MASTERDOMINO88" i]
@@ -7546,6 +7570,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="MENUQQ" i]
 ##img[alt="MGMPOKER" i]
 ##img[alt="MITRACAPSA" i]
+##img[alt="MKVGAMES" i]
 ##img[alt="MKVPoker" i]
 ##img[alt="MULAIQQ" i]
 ##img[alt="MURAHQQ" i]
@@ -7584,6 +7609,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="PAKQQ" i]
 ##img[alt="PANADOLQQ" i]
 ##img[alt="PANASQQ" i]
+##img[alt="PANCATOTO" i]
 ##img[alt="PARISQQ" i]
 ##img[alt="PASARPOKER" i]
 ##img[alt="PASARQQ" i]
@@ -7694,6 +7720,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="SHINCHANPOKER" i]
 ##img[alt="SMSQQ" i]
 ##img[alt="SOSMEDQQ" i]
+##img[alt="STARS77" i]
 ##img[alt="SUGUSQQ" i]
 ##img[alt="SUHUQQ" i]
 ##img[alt="SUKSESDOMINO" i]
@@ -7736,6 +7763,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="Togel Terpercaya" i]
 ##img[alt="TogelDulu" i]
 ##img[alt="Togeldomino" i]
+##img[alt="Topbola" i]
 ##img[alt="UtamaBet" i]
 ##img[alt="VIPADUQ" i]
 ##img[alt="VIPBANDARQ" i]
@@ -7757,6 +7785,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="Wigobet" i]
 ##img[alt="WongQQ" i]
 ##img[alt="YAKINQQ" i]
+##img[alt="Z11BET" i]
 ##img[alt="ZEUPOKER" i]
 ##img[alt="ZEUSBOLA" i]
 ##img[alt="ZEUSPOKER99" i]
@@ -8123,10 +8152,14 @@ leon.bet#@#a[href$="/slots"]
 /Banner-Bandar303.gif|$image
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party
+/Betcoin-$image
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
 /NIKMATIQQ.$image
+/PKVHOKI.gif|$image
 /PURIBET.gif|$image
+/Poker228.gif|$image
+/ZEUS%2BPOKER.gif|$image
 /ZEUSPOKER.gif|$image
 /aabet.$image
 /abgqq-$image
