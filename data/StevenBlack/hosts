@@ -1920,3 +1920,12 @@
 
 # Added August 11, 2021
 0.0.0.0 www.luckycrush.live
+
+# Added September 17, 2021
+0.0.0.0 mmsotk.com
+
+# Added September 24, 2021 see https://github.com/StevenBlack/hosts/issues/1764
+0.0.0.0 discord-app.net
+
+# Added October 2, 2021 see https://github.com/StevenBlack/hosts/issues/1770
+0.0.0.0 sk.mplmnt.io
