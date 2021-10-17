@@ -79,7 +79,6 @@ giladrakor.com###ouibounce-modal
 ##.ad-left-image
 ##.ad-right-image
 ##.ad_primex
-##.adace-slot
 ##.ads-head
 ##.ads-pop
 ##.ads__side
@@ -175,6 +174,8 @@ giladrakor.com###ouibounce-modal
 ##.iklanx1
 ##.infeed-ads
 ##.inside-player-ad
+##.ivs-overlay-adcontainer
+##.ivs-overlay-ads
 ##.kill-adblock-container
 ##.kotak_iklan
 ##.kotakiklan
@@ -200,6 +201,7 @@ giladrakor.com###ouibounce-modal
 ##[href="http://ig24.me"]
 ##[href^="//mellowads.com/"]
 ##[href^="http://www.ituvipwd.com"]
+##[href^="https://ascertaincrescenthandbag.com/"]
 ##[href^="https://www.ituqqwd.com"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
