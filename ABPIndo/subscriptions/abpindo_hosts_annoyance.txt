@@ -1,21 +1,40 @@
 [Adblock Plus 2.0]
-! Version: 202005240921
-! Last modified: 24 May 2020 09:21 UTC
+! Version: 202112292223
+# Title: ABPindo (hosts)
+# Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
+# Last modified: %timestamp%
+# Expires: 4 days (update frequency)
+# Homepage: https://github.com/ABPindo/indonesianadblockrules/
+# Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+#
+# Please report any unblocked adverts or problems
+# GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+# GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
+#
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||188affiliates.com^$third-party
+||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
 ||64p3am9x95ct.com^$popup
+||6631f33cf2a1032b.com^
+||98e22a373e.com^
+||995db2642d3d852b.com^
 ||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup
 ||a.brand.ad^$third-party
+||a01.uadexchange.com^
+||a02.uadexchange.com^
+||a03.uadexchange.com^
+||a04.uadexchange.com^
+||a05.uadexchange.com^
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
-||adaranth.com^$third-party
+||ad-loupe.com^$image,third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
 ||adflazz.com^$third-party
@@ -29,9 +48,11 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||ads.indosatooredoo.com^$third-party
+||ads.telkomsel.com^$third-party
 ||adsbingo.com^$third-party
 ||adscpm.site^$third-party
 ||adshost.site^$third-party
+||adsimg.kompas.com^$third-party
 ||adskom.com^$third-party
 ||adslop.com^$third-party
 ||adtimeselaras.com^$popup
@@ -39,7 +60,6 @@
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
-||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -47,23 +67,35 @@
 ||auredzeon.com^$popup
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
-||badskies.com^$third-party
+||b9645fef65.com^
 ||baliadv.com^$third-party
+||bastingestival.com^
 ||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
+||bourranuncurbs.com^
+||browsertelemetry.tk^
+||cea9d3d4f74fb831.com^
+||cfs.u-ad.info^
+||cfs.uzone.id^
+||cfs2.uzone.id^
 ||chidsimp.com^$third-party
 ||chqspuonctkgz.com^$popup
 ||cjsab.com^$popup,third-party
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
 ||clicks.pipaffiliates.com^
+||clicks.pipaffiliates.com^$popup
+||compulsivehemisphere.com^$popup
 ||craydark.pw^$third-party
+||csf.uzone.id^
+||d01.notifa.info^
 ||d0p21g2fep.com^
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
 ||d72gb9oukw3j.com^$popup
+||d824d7f5cbcb0e00.com^
 ||daero.pw^$popup
 ||dafa.io^$popup,third-party
 ||dairouzy.net^$popup
@@ -77,19 +109,23 @@
 ||drda5yf9kgz5p.cloudfront.net^
 ||dzbx8qv1at614.cloudfront.net^
 ||e7393e33565ce805.com^$popup
-||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
-||elfirkelk.com^$script
+||edspectsm.fun^$third-party
 ||epfcfhtjxqd.com^$popup
 ||etoads.net^$popup
 ||etoads.net^$third-party
+||finkyepbows.com^
+||fkglkpkgkduh.top^$popup
+||fkglkpkgkduh.top^$subdocument
+||fkglkpkgkduh.top^$xhr
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
 ||frpiksdeygy.com^$popup
-||frpiksdeygy.com^$third-party
-||fryawlauk.com^$script
+||fryruejoust.cam^$popup
 ||furocmay.com^$popup
+||gbrrrxbodqdlq.com^$popup
+||goingsilltrusty.com^
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
 ||grushashuka.pro^$popup
@@ -99,6 +135,8 @@
 ||herdethi.net^$third-party
 ||hitadsmedia.com^$third-party
 ||hoegutvie.com^$popup
+||hosillfir.site^
+||ibnads.xl.co.id^$third-party
 ||iklan-laris.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.com^$third-party
@@ -111,7 +149,6 @@
 ||iklanhemat.com^$third-party
 ||iklanhoki.com^$third-party
 ||iklanoke.com^$third-party
-||iklantanpadaftar.com^$third-party
 ||iklantelevisi.com^$third-party
 ||iklantext.com^$third-party
 ||iklantop.net^$third-party
@@ -126,39 +163,51 @@
 ||istanaimpian2.com^$popup,third-party
 ||istanaimpian3.com^$popup,third-party
 ||iupqelechcmj.com^$popup,third-party
+||iwtserve.com^$popup
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
 ||jillsclickcorner.com^$third-party
+||jnwsrqxrdqct.top^$popup
 ||juruiklan.com^$third-party
 ||katurars.com^$popup
+||kdbumyha.com^$popup
+||kiltyyoginis.com^
 ||klikajadeh.com^$third-party
+||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
 ||ld82ydd.com^$popup
 ||leoceran.pw^$popup
 ||lokeriklan.com^$third-party
-||lopzitpup.com^$script
 ||lpaizureik.com^$popup
+||lugtardam.com^$script
 ||luven.xyz^$popup
-||luven.xyz^$third-party
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
+||mifsirnhvvrps.top^$popup
+||misxgkvnlf.com^$popup
 ||motosal.net^$popup
 ||mousheen.net^$third-party
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
 ||newsupdatewe.info^$third-party
 ||octafx.com^$popup,third-party
+||offer.popsads.link^$script
 ||offerjuice.me^$popup,third-party
-||ofphanpytor.com^$popup
-||ojeergoy.com^
+||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
-||olmsoneenh.info^$third-party
 ||onclkds.com^$popup,third-party
+||onigagalai.ru^$third-party
 ||openadserving.com^$third-party
+||ourtherss.top^$third-party
+||p01.notifa.info^
+||p02.notifa.info^
+||p03.notifa.info^
+||p04.notifa.info^
+||p05.notifa.info^
 ||padssup.com^$third-party
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
@@ -166,7 +215,7 @@
 ||paypopup.com^$third-party
 ||pc3ads.com^$third-party
 ||peevopoy.com^$third-party
-||phastoag.com^$third-party
+||phca85g3n400.com^$third-party
 ||pheersie.com^$popup
 ||phudrour.net^$popup
 ||pondokiklan.com^$third-party
@@ -178,8 +227,8 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
-||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
+||rccsekuitas.com^$script
 ||realwap.net^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
@@ -189,21 +238,25 @@
 ||s2pops.club^$popup
 ||sanglah.com^$third-party
 ||sarapbeh.com^$third-party
+||sawnowepage.com^$third-party
 ||scriptall.ml^$popup,third-party
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$popup,third-party
 ||sentrapromosi.com^$third-party
+||serbada.com^$image,third-party
 ||serbapromo.com^$third-party
 ||shiiuojjccp.com^$popup
 ||shiokambing2.com^$popup,third-party
+||shqbsdjatunl.com^$popup
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
+||spanuletubings.com^$popup,third-party
+||spewyelks.com^
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||syndopop.com^$popup
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
-||thesandonesof.info^$third-party
 ||tidnqztumpnk.com^$popup
 ||tinfunshe.club^$script
 ||tinggalklik.com^$third-party
@@ -213,13 +266,15 @@
 ||trendlope.com^$third-party
 ||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
+||u-ad.info^
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
+||ueuodgnrhb.com^$popup
+||uieoogjarimcey.com^$popup
 ||uoarbhxfyygn.com^$popup,third-party
 ||uofmnbkm.com^$popup
-||urt7bpvfz4am.com^$script
 ||useads.com^$third-party
-||vidcpm.com^third-party
+||utopia.ad-loupe.com^$third-party
 ||vrewpywootyu.com^$popup,third-party
 ||wbaogaqvrukprx.com^$popup
 ||webiklan.com^$third-party
@@ -227,22 +282,28 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
-||wizliebeg.com^$script
-||www.iwtserve.com^$popup
-||www.olenation.org^$popup
+||x-tags.net^
+||xcnqoertn.xyz^
+||yawnspuker.com^
 ||yesads.com^$third-party
 ||yhig.info^$third-party
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
+||zuyejecgb.com^$popup
 ! *** abpindo:src/advert/thirdparty.txt ***
+||144.126.241.203^$popup,third-party
 ||c-stat.eu^$third-party
 ||cfs1.uzone.id^$third-party
+||cutt.ly^$popup,third-party
 ||hesftig.site^$third-party
 ||ktrackdata.com^$popup,third-party
 ||moneyfree.co^$third-party
+||nonegrysu.pro^$popup
+||profitsurvey365.live^$script
 ||track.aptitudemedia.co^$popup
+||track.avxid.com^$third-party
 ||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
@@ -305,7 +366,6 @@
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
-||clickadu.com^$third-party
 ||coltpoker.com^$third-party
 ||coolhandpoker.com^$third-party
 ||cyberjudi.com^$third-party
@@ -360,12 +420,15 @@
 ||kedaijudi.com^$third-party
 ||kingtogel.com^$third-party
 ||launchpoker.com^$third-party
+||lazacasino.com^$image,third-party
+||lazacasino.com^$popup
 ||lintastogel.com^$third-party
 ||lotospoker.com^$third-party
 ||luckyriverpoker.com^$third-party
 ||mainjudiinternet.com^$third-party
 ||mansionpoker.com^$third-party
 ||markastogel.com^$third-party
+||master88indo.net^$popup
 ||masteragentjudi.com^$third-party
 ||masteragentpoker.com^$third-party
 ||masterjudi.blog.com^$third-party
@@ -388,6 +451,7 @@
 ||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||nztoto.com^$third-party
+||obobet.net^$popup
 ||online5poker.com^$third-party
 ||onlineactionpoker.com^$third-party
 ||onlinepoker66.com^$third-party
@@ -402,7 +466,7 @@
 ||perjudianonline.com^$third-party
 ||planetjudi.com^$third-party
 ||planettoto.com^$third-party
-||playpokeronline.$third-party
+||playpokeronline.com^$third-party
 ||playwinpoker.com^$third-party
 ||poker24x7.com^$third-party
 ||poker338a.com^$third-party
@@ -461,6 +525,8 @@
 ||situstaruhan.com^$third-party
 ||situstogelonline.com^$third-party
 ||star88win.net^$popup
+||starcasino88.net^$image,third-party
+||starcasino88.net^$popup
 ||sukajudibola.com^$third-party
 ||sunpoker.com^$third-party
 ||surgajudi.com^$third-party
@@ -521,12 +587,12 @@
 ||webjuditerpercaya.com^$third-party
 ||websitejudi.com^$third-party
 ||wigobet.com^$third-party
-||www.master88indo.net^$popup
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
+||yoyopoker.net^$popup
 ! *** abpindo:src/annoyances/annoyance_prank.txt ***
 ! situs jail dan usil
-!
+! 
 ||1227.com^
 ||1girl1pitcher.com^
 ||1girl1pitcher.org^

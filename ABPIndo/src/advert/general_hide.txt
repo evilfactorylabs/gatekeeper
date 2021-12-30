@@ -18,12 +18,14 @@
 ###adskiri2
 ###adskiri3
 ###adv-placeholder
+###banner_iklan_top
 ###banner_top_detail
 ###bireklam
 ###bottom_exclusive_ads
 ###btm_banner
 ###cfs_top_div
 ###desaiklan
+###df-wrapper-ads-top
 ###fbanner
 ###fbbanner
 ###float-banner.visible-lg
@@ -76,6 +78,7 @@ giladrakor.com###ouibounce-modal
 ###tupiklan
 ###vp-advert
 ##.SectionAds
+##.ad-description
 ##.ad-left-image
 ##.ad-right-image
 ##.ad_primex
@@ -112,10 +115,12 @@ giladrakor.com###ouibounce-modal
 ##.banner-iklan
 ##.bgads
 ##.bireklam
+##.box_item_ads_popup
 ##.current.ujimodal.ujipopup
 ##.disads300px
 ##.fake_player
 ##.floatingBanner728
+##.footer-ad-mobile
 ##.forads
 ##.fotads_showalign
 ##.frame_iklan_baris
@@ -169,6 +174,7 @@ giladrakor.com###ouibounce-modal
 ##.iklanlebar
 ##.iklanleft
 ##.iklanmini
+##.iklanpost
 ##.iklanpusat
 ##.iklanright
 ##.iklanx1
@@ -184,6 +190,7 @@ giladrakor.com###ouibounce-modal
 ##.marginads
 ##.pengiklan
 ##.popUpBannerBox
+##.popupflyin-clicks-area
 ##.pusat728
 ##.qode-banner-left
 ##.qode-banner-right
