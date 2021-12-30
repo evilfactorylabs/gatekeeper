@@ -88,6 +88,7 @@
 -tri7bet.$image
 -tugupoker-$image
 -tugupoker.$image
+-unibet-$image
 -viralqq-$image
 -visitogel.$image
 -warnaqq-$image
@@ -111,11 +112,13 @@
 /Dazbet.gif$image
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
+/MEJAHOKI.gif|$image
 /NIKMATIQQ.$image
 /PESBOLA-$image
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
+/Unibet99-$image
 /VISABET88.gif$image
 /ZEUS%2BPOKER.gif|$image
 /ZEUSPOKER.gif|$image
@@ -147,6 +150,7 @@
 /auxbet-$image
 /avoqq.$image
 /b2indo.gif|$image
+/bacanpoker-$image
 /balakqq-$image
 /bandarq-$image
 /bandarqq-$image
@@ -158,10 +162,12 @@
 /bet2indo-$image
 /bet2poker-$image
 /bet2poker_$image
+/betcoin.gif|$image
 /betking88-$image
 /betsaja-$image
 /bigwin-banner-$image
 /bijitogel-$image
+/bokep-update.gif|$image
 /bolavegas-$image
 /bolavita-$image
 /bosqq.$image
@@ -183,6 +189,7 @@
 /dotaqiu-$image
 /doyangoyang.gif|$image
 /dpbola.gif|$image
+/duniabet.gif|$image
 /duniacash-$image
 /duniavegas-$image
 /elangqq-$image
@@ -209,7 +216,9 @@
 /hokibet-$image
 /hokicash-$image
 /ibcqq.$image
+/ibetwin.gif|$image
 /iblis4d-$image
+/idngg.gif|$image
 /idrbet-$image
 /idx-promo-$image
 /iklanratu.$image
@@ -242,6 +251,7 @@
 /klik66banner.gif|
 /klikqq-$image
 /klikvegas-$image
+/koinslots.gif|$image
 /lapak-poker.gif|$image
 /lapakqq-$image
 /lazabet-$image
@@ -265,6 +275,7 @@
 /mamibit-$image
 /mandalatoto.gif|$image
 /maniaqq-$image
+/maniaslot.gif|$image
 /master88-$image
 /maxisbet-$image
 /megabet-$image
@@ -274,6 +285,7 @@
 /misiqq-$image
 /mitrahoki-$image
 /mobapoker-$image
+/modalqq.gif$image
 /mustikapoker-$image
 /mutiarapoker-$image
 /muvibet-$image
@@ -345,6 +357,7 @@
 /togel88-$image
 /totobetnew.gif$image
 /totojek-$image
+/transqq.gif$image
 /unitogel-$image
 /uploads/*/Ahabet-$image
 /uploads/*/Indotogel-$image
@@ -353,8 +366,11 @@
 /uploads/*/jayapoker-$image
 /uploads/*/senyumqq-|$image
 /uploads/*/vipslot.$image
+/vegasgg.gif|$image
+/vegashoki.gif|$image
 /venombet-$image
 /vibol.$image,third-party
+/vip/rajaelang.gif$image
 /viralqq.gif|$image
 /vjudi.gif|
 /w88131-$image
