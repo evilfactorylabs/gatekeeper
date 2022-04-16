@@ -1,13 +1,15 @@
 173.199.167.192,krucil.com,krucil.net###KD_adpB
-173.199.189.86,forumbokep.com,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
+perawabokep.cam###ads
+164.132.158.237###adsic364x90-bokep
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
+164.68.105.199###fixedban
 unyil.net###float-atas
-forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
+75.119.147.12###floating_banner_top1
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
-duniasex.co,ibugil.net,nontonfilmdrama.com,sidrama.com###netkevin-popup
+manhwaid.org###ouibounce-modal
 iyottube.com###playerOverlay
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
@@ -19,13 +21,16 @@ sodasusu.com###sodasusu_ads_side_right
 sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
+158.69.0.212###top-banner
 nontonbokeps.com###under-video-ads
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 semprot.com#@#.adVertical
+mediahiburan.my##.adplaceholder-mrec
 manhwahentai.me,manytoon.com,www.webtoon.xyz##.c-ads.ad
 bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
+manhwalist.com##.kln
 manhwaland.top##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 nontonbokeps.com##.mask-ads
@@ -34,6 +39,11 @@ bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 melayusex.tube##[href="//7c0616849b.com/load.xml"]
+##[href="https://bit.ly/77dragonbanyakmenang"]
+##[href="https://bit.ly/77lucksmenangbanyak"]
+##[href="https://bit.ly/joker99menangterus"]
+##[href="https://bit.ly/luck99gacorbanget"]
+##[href="https://bit.ly/stars77cepetmenang"]
 manhwaindo.id##[href="https://xcashshop.com/"]
 manhwaindo.id##[href^="https://www.rekeningku.com/"]
 hentai2read.com##a[href^="//www.nutaku.net/signup/"]
