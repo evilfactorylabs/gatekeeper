@@ -1,12 +1,3 @@
----
-name: Site report
-about: Laporkan
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## Berikan URL
 `contohURL.com`
 
@@ -21,6 +12,3 @@ jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
 - [] Chrome
 - [] uBlock Origin
 - [] Adblock Plus
-
-## Usul sintak filter
-... jika punya ide, tuliskan sintak filternya

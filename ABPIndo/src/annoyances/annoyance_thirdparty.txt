@@ -1,3 +1,4 @@
+||172.105.216.174^$popup
 ||24hpoker.com^$third-party
 ||32redpoker.com^$third-party
 ||3poker855.com^$third-party
@@ -64,6 +65,7 @@
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
 ||dutatoto.com^$third-party
+||emputogel.com^$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
 ||feltpoker.com^$third-party
