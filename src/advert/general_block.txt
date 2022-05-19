@@ -30,12 +30,12 @@
 /banner_iklan/*
 /bannerlonteqq.gif|
 /bb17-iklan.
+/iklan_banner_$image
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
 /Ligadunia365.gif|
 /Pkv-Games.gif|
-/plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
 /revenuehits.js|
 /safelink$script,third-party
 /SkinADkanan.

@@ -1,9 +1,9 @@
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
-||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
-||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+/assets/*.gif$image,domain=149.56.24.226
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
+||188.166.197.120^$popup,third-party
 ||adsafelink.com/js/webscript.js$script,third-party
 ||akanhoki.com/GenerateAdImage$image
 ||angel.exabytes.com.my/banners/
@@ -30,10 +30,12 @@
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
+||blogger.googleusercontent.com/*.gif$image,domain=www.ngefilm21.top
 ||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|anoboy.watch|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.asia|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|otakudesu.info|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
+||cakrawalanews.co.id/images/banner/$image
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
@@ -96,7 +98,7 @@
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||gm21.xyz/wp-content/uploads/*.gif$image,~third-party
 ||gmovies.org/wp-content/uploads/*.gif$image
-||google.co.id/search?q=$popup,domain=komikav.com,komikcast.com
+||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com
 ||googleusercontent.com$domain=80.209.252.146
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
@@ -135,6 +137,7 @@
 ||indoxximovie.com/wp-content/uploads/2020/06/realbola.jpg$image
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||juragan21.com/wp-content/uploads/*.gif$image
+||kambingjantan.cc/*.gif$domain=manhwalands.xyz
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
 ||kaskus.com/images/banner-wap/
@@ -207,6 +210,7 @@
 ||nontonsub.*/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
 ||onicdn.xyz/adam/poker88
+||pacapa.my.id^$popup,third-party
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
 ||raw.githack.com/jefcom/jefar/master/jefar.js$script
@@ -228,6 +232,7 @@
 ||tribunnews.com/stylesheets/close.gif
 ||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
+||ultima7.fun^$popup,third-party
 ||upload.coblos.net/images/*.gif$image
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
@@ -241,4 +246,4 @@
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
