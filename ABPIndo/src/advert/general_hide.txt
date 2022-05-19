@@ -10,6 +10,7 @@
 ###ads_banner_left1
 ###ads_banner_right
 ###ads_hd_bt
+###ads_top_list
 ###adsbawah1
 ###adsimgxatas
 ###adsimgxatass
@@ -75,7 +76,6 @@
 ###myadsmodal
 ###netkevin-overlay
 ###netkevin-popup
-giladrakor.com###ouibounce-modal
 ###pbanner
 ###popupwindow
 ###srcadsurlblock
@@ -86,7 +86,6 @@ giladrakor.com###ouibounce-modal
 ###tupiklan
 ###vp-advert
 ##.SectionAds
-##.ad-description
 ##.ad-ekspose
 ##.ad-left-image
 ##.ad-right-image
@@ -200,6 +199,7 @@ giladrakor.com###ouibounce-modal
 ##.iklanpusat
 ##.iklanright
 ##.iklanx1
+##.ikltop
 ##.infeed-ads
 ##.inside-player-ad
 ##.ivs-overlay-adcontainer
@@ -239,4 +239,5 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://ascertaincrescenthandbag.com/"]
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
+##img[alt="ads banner" i]
 ##img[alt="iklan" i]

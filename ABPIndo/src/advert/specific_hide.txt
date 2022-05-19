@@ -14,11 +14,9 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 80.209.252.146###ads-pop
 downloadfilmbaru.com###ads-stack
-premierexxi.com###ads_top_list
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
 kontan.co.id###adsoutsream
-tvkabel.net###adv
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -29,7 +27,6 @@ tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
-panduanpercuma.info###banner125
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
@@ -55,6 +52,7 @@ indostreamings.xyz###content > div:nth-of-type(1)
 kompas.com###crt-225c8f8a
 kompas.com###crt-4f9f1ad0
 kompas.com###crt-f6d317f5
+stocksetup.kontan.co.id###dablewidget_RoOGdzom
 ggwp.id###detailSkinAdLeft
 ggwp.id###detailSkinAdRight
 bioskopmovie.tv###directorio > .random > center
@@ -62,6 +60,7 @@ tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
+stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
 blog.tribunjualbeli.com###div-Top-Leaderboard
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 motorplus-online.com###div-paralax-container
@@ -166,7 +165,7 @@ cafecinema.cc,dramamu.net,lk21.world,sidrama.com###netkevin-overlay
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
-drakorindo.best,gatsunime.org,layarkeren.site###ouibounce-modal
+drakorindo.best,gatsunime.org,giladrakor.com,layarkeren.site###ouibounce-modal
 149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
@@ -179,7 +178,6 @@ indoxx1.pw###popup
 anoboy.digital,anoboy.media,anoboy.watch###popup_bawah
 anoboy.digital,anoboy.media,anoboy.watch###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
-amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
 lk21.li,nonton21.tv###previewBox
 fb21.tv###previewBox1
@@ -196,9 +194,8 @@ lk21tv.com###rotating
 youtube-mp3.my###sadl
 youtube-mp3.my###sadr
 animeindo.net###sct_banner_top
-drakorindo.fun###sg-popup-content-wrapper-3560
 cinemaqq.com###sgcboxOverlay
-drakorindo.fun,kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
+kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
@@ -366,7 +363,6 @@ bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
 didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
-ceklink.co##.blog-content
 kazefuri.net##.blox
 103.194.171.75,idtube.me##.bm.overlay
 anime17.net,cosmogirl.co.id##.bnr
@@ -426,7 +422,6 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 winpoin.com##.feedme-header-desktop.adsbygoogle
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
-drakorasia.net,ryuukoi.web.id##.floatingads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
@@ -436,6 +431,8 @@ bioskop90.com##.headborder:nth-of-type(5)
 128.199.102.111##.header-ad-mobile
 kaskus.co.id##.header__kasad
 kontan.co.id##.heightads250
+stocksetup.kontan.co.id##.heightads600.pad-t.pad-r.pad-l.pad-10
+stocksetup.kontan.co.id##.heightads90.ads-middle-list-news
 malaysiakini.com##.hero_adslot
 cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
@@ -446,7 +443,7 @@ nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
-103.194.171.75,dutafilm.us##.imgbanner
+103.194.171.75,dutafilm.observer,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
@@ -458,7 +455,7 @@ kompas.com##.kcm
 kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
 apk.miuiku.com,lewat.club##.klikdisini
-anoboy.id,kazefuri.net,kiryuu.id,mangakita.net,mangashiro.net,nontondramaseri.com##.kln
+anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,nontondramaseri.com##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -471,11 +468,11 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
-belapendidikan.com##.majalahpro-core-floatbanner
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 www.inibaru.id##.mb-4.bg-grey.text-center
+www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 detik.com##.megabillboard
 kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
@@ -526,7 +523,6 @@ republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
 oploverz.bz##.sg-popup-content
 oploverz.bz##.sgpb-popup-overlay
-drakorindo.fun##.sgpb-popup-overlay.sgpb-popup-overlay-3560.sgpb-theme-6-overlay
 kompas.com##.show.ol_promo
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
@@ -547,7 +543,6 @@ tirto.id##.skinner-right
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
 hipwee.com##.spb_middle.spb_banner
-mydramalist.com##.spnsr
 mydramalist.com##.spnsr-top
 idpelago.com##.sponsor_ads:nth-of-type(1)
 idpelago.com##.sponsor_ads:nth-of-type(2)
@@ -557,10 +552,12 @@ radenku.com##.sticky-ads
 radenku.com##.sticky-ads-content
 www.kompasiana.com##.sticky-right.banner-center.banner-sky.ads__skyscraper.ads
 kabargames.id##.stickybanner
+dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
+stocksetup.kontan.co.id##.text-center.center.width-px-1100
 bioskopgalaxy21.com,indostreamings.xyz,semi168.xyz,tvkabel.net##.textwidget
 bioskop007.club##.textwidget > p
 bioskoptigalima.com,icinema3satu.net##.textwidget img
@@ -575,6 +572,7 @@ mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 hightech.web.id##.wait
+149.56.24.226##.warning-modal
 teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner
 cdramabase.com##.wpa
@@ -586,7 +584,6 @@ oploverz.fan##[class^="sgpb-"]
 mydramalist.com##[class^=spnsr-top-]
 mydramalist.com##[class^=spnsr-wrapper-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
-omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
@@ -641,8 +638,6 @@ anoboy.org##a[href^="http://www.pencetpoker."]
 anoboy.digital##a[href^="https://144.126.241.203/"]
 animebatch.web.id,animeindo.co,animeku.tv,anoboy.digital,anoboy.org,bioskop168.pro,bioskopbos.com,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,kazefuri.web.id,layarindo21.pro,lk-21.me,lk21c.fun,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontondramas.com,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,subindo.id##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,drakorindo.tv,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,serunonton.com##a[href^="https://goo.gl/"]
-torjack.net##a[href^="https://mypayingads.com"]
-ytssubtitles.com##a[href^="https://oxhax.com/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]

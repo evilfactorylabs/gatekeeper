@@ -447,7 +447,6 @@
 /tangkaspro.$image,third-party
 /tatacasino.$image,third-party
 /tatobet.$image,third-party
-/TelurQQ.$image
 /texaspoker.$image,third-party
 /texasqq.$image,third-party
 /togel212.$image,third-party
@@ -461,6 +460,7 @@
 /totojek.$image,third-party
 /totokita.$image,third-party
 /toyotaqiuqiu.$image,third-party
+/transqq.$image
 /tstotosaja.$image,third-party
 /tuanbola.$image,third-party
 /tugupoker.$image,third-party
