@@ -112,6 +112,7 @@
 /Betcoin-$image
 /DEWABANDAR-$image
 /Dazbet.gif$image
+/HOKI69.gif|$image
 /IBCDOMINO.gif$image
 /ITCBET.gif|$image
 /JAYAPOKER_*.gif$image
@@ -197,6 +198,7 @@
 /dewapoker2.gif|$image
 /dewascore.gif|$image
 /dewatangkas-$image
+/dewavegas.gif|$image
 /dewiqq-$image
 /doiqq.gif|$image
 /dotapoker88-$image
@@ -296,10 +298,12 @@
 /menangqq-$image
 /merdeka99.$image
 /merdekabet365.$image
+/mildcasino.gif$image
 /misiqq-$image
 /mitrahoki-$image
 /mobapoker-$image
 /modalqq.gif$image
+/modalqq.webp$image
 /mustikapoker-$image
 /mutiarapoker-$image
 /muvibet-$image
@@ -309,6 +313,7 @@
 /newrgotog.gif
 /ngiklan/ad$image
 /ninjaqq-$image
+/obctop.gif|$image
 /obobet-$image
 /oceantogel.gif$image
 /olopoker-$image
@@ -377,6 +382,7 @@
 /totojek-$image
 /transqq.gif$image
 /unitogel-$image
+/unovegas.gif$image
 /uploads/*/Ahabet-$image
 /uploads/*/Indotogel-$image
 /uploads/*/TOTOBET-$image
