@@ -201,6 +201,7 @@
 ##.iklanx1
 ##.ikltop
 ##.infeed-ads
+##.inner-floatbanner-bottom
 ##.inside-player-ad
 ##.ivs-overlay-adcontainer
 ##.ivs-overlay-ads
