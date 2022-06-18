@@ -1510,7 +1510,6 @@
 127.0.0.1 jioads.akamaized.net
 127.0.0.1 abcd.mdc.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
-127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
 
 # [akisinn.info]
 127.0.0.1 co.akisinn.info
@@ -1581,6 +1580,7 @@
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax-us-east-retail-direct.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 fls-eu.amazon-adsystem.com
@@ -1595,6 +1595,7 @@
 
 # [amazon.com]
 127.0.0.1 aan.amazon.com
+127.0.0.1 aax-us-east-retail-direct.amazon.com
 127.0.0.1 fls-na.amazon.com
 
 # [ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com]
@@ -2003,6 +2004,7 @@
 127.0.0.1 dash.applovin.com
 127.0.0.1 img.applovin.com
 127.0.0.1 ms.applovin.com
+127.0.0.1 ms4.applovin.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 prod-a.applovin.com
 127.0.0.1 prod-bid.applovin.com
@@ -3069,12 +3071,6 @@
 # [cloud-elements.com]
 127.0.0.1 g2c.cloud-elements.com
 
-# [ailoganalyticsportal-eus.cloudapp.net]
-127.0.0.1 ailoganalyticsportal-eus.cloudapp.net
-
-# [bi-analytics.cloudapp.net]
-127.0.0.1 bi-analytics.cloudapp.net
-
 # [clouddn.com]
 127.0.0.1 bkt.clouddn.com
 
@@ -3086,9 +3082,6 @@
 
 # [us-central1-adaptive-growth.cloudfunctions.net]
 127.0.0.1 us-central1-adaptive-growth.cloudfunctions.net
-
-# [us-central1-production-242307.cloudfunctions.net]
-127.0.0.1 us-central1-production-242307.cloudfunctions.net
 
 # [cloudmobi.net]
 127.0.0.1 cloudmobi.net
@@ -3688,6 +3681,7 @@
 127.0.0.1 foxnet.demdex.net
 127.0.0.1 foxnews.demdex.net
 127.0.0.1 gannett.demdex.net
+127.0.0.1 iqdigital.demdex.net
 127.0.0.1 fast.mtvn.demdex.net
 127.0.0.1 nbcu.demdex.net
 127.0.0.1 pepsico.demdex.net
@@ -5424,9 +5418,6 @@
 127.0.0.1 hn.inspectlet.com
 127.0.0.1 ws.inspectlet.com
 
-# [instabug.com]
-127.0.0.1 api.instabug.com
-
 # [instana.io]
 127.0.0.1 eum-orange-saas.instana.io
 
@@ -5476,11 +5467,6 @@
 # [invocacdn.com]
 127.0.0.1 invocacdn.com
 127.0.0.1 solutions.invocacdn.com
-
-# [ioam.de]
-127.0.0.1 config.ioam.de
-127.0.0.1 irqs.ioam.de
-127.0.0.1 script.ioam.de
 
 # [iosappsworld.com]
 127.0.0.1 ads.iosappsworld.com
@@ -5802,12 +5788,6 @@
 127.0.0.1 fast.a.klaviyo.com
 127.0.0.1 static.klaviyo.com
 127.0.0.1 telemetrics.klaviyo.com
-
-# [klclick2.com]
-127.0.0.1 trk.klclick2.com
-
-# [klclick3.com]
-127.0.0.1 trk.klclick3.com
 
 # [kmpmedia.net]
 127.0.0.1 gplayer.kmpmedia.net
@@ -6272,9 +6252,6 @@
 # [manychat.com]
 127.0.0.1 widget.manychat.com
 
-# [mapbox.com]
-127.0.0.1 events.mapbox.com
-
 # [marfeel.com]
 127.0.0.1 marfeel.com
 127.0.0.1 bc.marfeel.com
@@ -6707,7 +6684,6 @@
 # [microsoft.com]
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 advertise.bingads.microsoft.com
-127.0.0.1 c1.microsoft.com
 
 # [midasplayer.com]
 127.0.0.1 adtrack1.midasplayer.com
@@ -6731,7 +6707,6 @@
 127.0.0.1 sa.api.intl.miui.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.rus.miui.com
-127.0.0.1 api.sec.miui.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 fcanr.tracking.miui.com
@@ -7203,7 +7178,6 @@
 127.0.0.1 ads2.msn.com
 127.0.0.1 a.ads2.msn.com
 127.0.0.1 c.msn.com
-127.0.0.1 browser.events.data.msn.com
 127.0.0.1 mobileads.msn.com
 127.0.0.1 rads.msn.com
 127.0.0.1 srtb.msn.com
@@ -7532,6 +7506,7 @@
 127.0.0.1 coxcommunications.sc.omtrdc.net
 127.0.0.1 fox.com.ssl.d2.sc.omtrdc.net
 127.0.0.1 philipslighting.d3.sc.omtrdc.net
+127.0.0.1 deutschebahn.sc.omtrdc.net
 127.0.0.1 kroger.sc.omtrdc.net
 127.0.0.1 nbcstreaming.sc.omtrdc.net
 127.0.0.1 nbcume.sc.omtrdc.net
@@ -7825,9 +7800,6 @@
 # [paypal.com]
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 slc.stats.paypal.com
-
-# [pcgamer.com]
-127.0.0.1 hawk.pcgamer.com
 
 # [pdbarea.com]
 127.0.0.1 ads.pdbarea.com
@@ -8578,10 +8550,6 @@
 127.0.0.1 ads.roblox.com
 127.0.0.1 metrics.roblox.com
 
-# [rocketreach.co]
-127.0.0.1 rocketreach.co
-127.0.0.1 static.rocketreach.co
-
 # [rogersmedia.com]
 127.0.0.1 analytics.rogersmedia.com
 
@@ -8619,9 +8587,6 @@
 
 # [rtk.io]
 127.0.0.1 bidder.rtk.io
-
-# [rtmark.net]
-127.0.0.1 my.rtmark.net
 
 # [rubiconproject.com]
 127.0.0.1 ads.rubiconproject.com
@@ -8693,12 +8658,6 @@
 127.0.0.1 prebid.s-onetag.com
 127.0.0.1 signal-beacon.s-onetag.com
 127.0.0.1 signal-metrics-collector-beta.s-onetag.com
-
-# [s3xified.com]
-127.0.0.1 pixel.s3xified.com
-
-# [sa-as.com]
-127.0.0.1 stats.sa-as.com
 
 # [safedk.com]
 127.0.0.1 api.safedk.com
@@ -10634,14 +10593,6 @@
 # [viacom.tech]
 127.0.0.1 events-collector-api.viacom.tech
 
-# [viafoura.co]
-127.0.0.1 api.viafoura.co
-127.0.0.1 realtimeeventfeeds.viafoura.co
-127.0.0.1 sub.viafoura.co
-
-# [viafoura.net]
-127.0.0.1 cdn.viafoura.net
-
 # [viantsuite.com]
 127.0.0.1 sdk.viantsuite.com
 
@@ -10973,9 +10924,6 @@
 127.0.0.1 analytics.wildtangent.com
 127.0.0.1 mobile.analytics.wildtangent.com
 
-# [windows.net]
-127.0.0.1 optanon.blob.core.windows.net
-
 # [winudf.com]
 127.0.0.1 tracker.winudf.com
 
@@ -11084,13 +11032,11 @@
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 track.ad.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
-127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 sdkconfig.ad.india.xiaomi.com
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 diagnosis.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
-127.0.0.1 data.mistat.intl.xiaomi.com
-127.0.0.1 data.mistat.rus.xiaomi.com
 
 # [xiaoying.co]
 127.0.0.1 ad-sdk.altamob.xiaoying.co
