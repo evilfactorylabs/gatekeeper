@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 09 Apr 2022 at 03:00:07 GMT
+# Last updated: Sun, 05 Jun 2022 at 07:17:13 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1645,6 +1645,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bluescreenalert.com
 0.0.0.0 blw4-1.com
 0.0.0.0 bnvxcfhdgf.blogspot.com.es
+0.0.0.0 bobcard.co.in
 0.0.0.0 bopstermedia56.com
 0.0.0.0 brightonclick.com
 0.0.0.0 brunga.at	# Facebook phishing attempt
@@ -1663,6 +1664,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 changduk26.com			# Facebook trojan
 0.0.0.0 checkfreevideos.net
 0.0.0.0 chelick.net				# Facebook trojan
+0.0.0.0 cicontents.biz
 0.0.0.0 ciiycode.com
 0.0.0.0 cioco-froll.com
 0.0.0.0 clean-mobilephone.com
@@ -1708,6 +1710,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
 0.0.0.0 eol1.egyptonline.com
+0.0.0.0 eslprologmvp.com
+0.0.0.0 eslprotourmvp.com
 0.0.0.0 exasked.com
 0.0.0.0 expertland.net
 0.0.0.0 expired-antiviruses.com
@@ -1729,6 +1733,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 free.videodownloadconverter.com
 0.0.0.0 freecontent.bid
 0.0.0.0 freedailydownload.com
+0.0.0.0 freshzz00.duckdns.org
 0.0.0.0 froling.bee.pl
 0.0.0.0 fromru.su
 0.0.0.0 ftdownload.com
@@ -1817,6 +1822,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 lp.cleanmymac.online
 0.0.0.0 lrt7a.coldcertainchannel.com
 0.0.0.0 lucklayed.info
+0.0.0.0 luxdiscount.zone
 0.0.0.0 m01.webwise.org
 0.0.0.0 m02.webwise.org
 0.0.0.0 mac-osx.message-warning.net
@@ -1860,6 +1866,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 monkeyball.osa.pl
 0.0.0.0 movies.701pages.com
 0.0.0.0 mp3red.cc
+0.0.0.0 ms-shoponline.top
 0.0.0.0 ms-shopplus.su
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 murcia-ban.es
@@ -1997,6 +2004,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 techques.com
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 thailandtravel.live
+0.0.0.0 thebestwebpillplace.com
 0.0.0.0 thedatesafe.com			# Facebook trojan
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thunderbird.es
@@ -2009,6 +2017,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tradedealvip.su
 0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
+0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trovi.com
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
@@ -3594,6 +3603,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 a3.suntimes.com
 0.0.0.0 a7cleaner.com
 0.0.0.0 aa.agkn.com
+0.0.0.0 aa.tweakers.nl
 0.0.0.0 aaa-architecten.nl
 0.0.0.0 aaa-arcobaleno.it
 0.0.0.0 aads.treehugger.com
@@ -3603,6 +3613,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 ab.tweakers.nl
 0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
