@@ -182,6 +182,7 @@
 ||azxsd.pro^$popup,third-party
 ||b9645fef65.com^
 ||bcajjtbzmdrl.com^$popup
+||binmenkollast.com^
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
