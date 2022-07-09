@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202206091225
+! Version: 202207052341
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 09 Jun 2022 12:25 UTC
+! Last modified: 05 Jul 2022 23:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -197,6 +197,7 @@
 ||azxsd.pro^$popup,third-party
 ||b9645fef65.com^
 ||bcajjtbzmdrl.com^$popup
+||binmenkollast.com^
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
@@ -366,6 +367,7 @@ iklan300x250.gif|
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
 ||188.166.197.120^$popup,third-party
+||65.108.132.145/wp-content/uploads/*.gif$image,~third-party
 ||adsafelink.com/js/webscript.js$script,third-party
 ||akanhoki.com/GenerateAdImage$image
 ||angel.exabytes.com.my/banners/
@@ -382,6 +384,7 @@ iklan300x250.gif|
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
 ||banibajury.website^$popup,domain=komikcast.com
+||beritabaru.news/sc/detect-click.js
 ||bioskop007.*/wp-content/uploads/*.gif$image
 ||bioskop168.*/wp-content/uploads/*.gif$image
 ||bioskop19.*/wp-content/uploads/*.gif$image
@@ -460,7 +463,7 @@ iklan300x250.gif|
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||gm21.xyz/wp-content/uploads/*.gif$image,~third-party
 ||gmovies.org/wp-content/uploads/*.gif$image
-||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com
+||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||googleusercontent.com$domain=80.209.252.146
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
@@ -836,9 +839,11 @@ totolink.id#@#.social-circle
 /Banner-Suhubola-$image,third-party
 /Betcoin-$image
 /DEWABANDAR-$image
+/DEWALIVE_$image
 /Dazbet.gif$image
 /HOKI69.gif|$image
 /IBCDOMINO.gif$image
+/IDRBET.gif$image
 /ITCBET.gif|$image
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
@@ -852,6 +857,7 @@ totolink.id#@#.social-circle
 /PURIBET.gif|$image
 /PentaSlot.gif|$image
 /Poker228.gif|$image
+/SBOBETMAIN-$image
 /TOTOKL-NEW.gif$image
 /TelurQQ.gif|$image
 /TradisiBet_$image
@@ -956,6 +962,7 @@ totolink.id#@#.social-circle
 /hoki365-$image
 /hokibet-$image
 /hokicash-$image
+/iacbet-$image
 /ibcqq.$image
 /ibetwin.gif|$image
 /iblis4d-$image
@@ -1091,6 +1098,7 @@ totolink.id#@#.social-circle
 /sbysport_$image
 /seksipoker-$image
 /selebtoto.$image
+/sexysloto.gif$image
 /sifujudi-$image
 /simpatiqq-$image
 /sogopoker-$image
