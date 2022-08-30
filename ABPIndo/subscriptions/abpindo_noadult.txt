@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202207052341
+! Version: 202208260842
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 05 Jul 2022 23:41 UTC
+! Last modified: 26 Aug 2022 08:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -116,6 +116,7 @@
 ||mesiniklan.andipublisher.com^$third-party
 ||mybannermaker.com^$third-party
 ||newsupdatewe.info^$third-party
+||offdeck.telkomsel.com^$third-party
 ||offer.popsads.link^$script
 ||offerjuice.me^$popup,third-party
 ||onclkds.com^$popup,third-party
@@ -180,6 +181,7 @@
 ||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
+||508327fbe9.95bd06d118.com^
 ||64p3am9x95ct.com^$popup
 ||6631f33cf2a1032b.com^
 ||995db2642d3d852b.com^
@@ -274,6 +276,7 @@
 ||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||tylosischewer.com^
+||uamrnaakv.com^
 ||ueuodgnrhb.com^$popup
 ||uieoogjarimcey.com^$popup
 ||uoarbhxfyygn.com^$popup,third-party
@@ -361,6 +364,8 @@
 /wpsafelink$script,third-party
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
+.gif$domain=dunia21.club,image
+.gif$domain=dutafilm.cfd,image
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 /assets/*.gif$image,domain=149.56.24.226
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -624,13 +629,10 @@ iklan300x250.gif|
 @@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
 @@.png#*/ad/$image,domain=ad4msan.com
 @@.png#/*/ad/$image,domain=mangacanblog.com
-@@.png#/*/adv/$image,domain=ijobanana.xyz
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sanjayaops.com|sdrama.com|shirosafe.web.id
-@@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
 @@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
-@@logo*.png#*/ads/$image,domain=anoboy.best
 @@logo*.png#*/ads/$image,~third-party
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
@@ -681,7 +683,6 @@ iklan300x250.gif|
 @@||modecepat.com/js/ads.js$script,~third-party
 @@||nama.web.id^$generichide
 @@||nanonime.com^$generichide
-@@||nekonime.tv^$generichide
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
@@ -689,7 +690,6 @@ iklan300x250.gif|
 @@||ngantukberat.me^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
-@@||oploverz.in^$generichide
 @@||otakuindo.net^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|aksensei.com|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|gembelcit.net|illyasave.com|indozone.me|infolokerserang.com|lewat.club|modecepat.com|nekopoi.web.id|pugam.com|sedot.link|www.download.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
@@ -942,6 +942,7 @@ totolink.id#@#.social-circle
 ##.mobileAd_bottom_floating
 ##.mobileads
 ##.mobileadstop
+##.para_ads
 ##.pengiklan
 ##.popUpBannerBox
 ##.popupflyin-clicks-area
@@ -990,6 +991,9 @@ downloadfilmbaru.com###ads-stack
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
 kontan.co.id###adsoutsream
+detik.com###adv-caption-lead
+detik.com###adv-caption-mr1
+detik.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -1115,8 +1119,9 @@ b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
-5.182.209.205###le_header_ads
+5.182.209.205,filmapik.kim###le_header_ads
 kabar2.com###leaderboard
+detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
 www.lingohut.com###lht2_lesson_bottom_300x250_phone
@@ -1218,6 +1223,7 @@ sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 indoxximovie.com##._ning_link.strack_cli
 clip.cewecewe.com##.ad
+investor.id##.ad-box-wrappr
 senimovie.info,senimovies.net##.ad-float-image
 wartaekonomi.co.id##.ad-inventory-wrapper
 www.parapuan.co##.ad-photo
@@ -1288,6 +1294,7 @@ kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
 139.99.33.192##.banner-float-bottom
+51.81.238.0##.banner-float-bottom-2.banner-float-bottom
 www.kompasiana.com##.banner-gennie.banner
 164.68.127.15##.banner-img
 dewabioskop21.asia,dewabioskop21.org##.banner-left
@@ -1363,6 +1370,7 @@ kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 otakuindo.org##.box_banner
 neonime.com,neonime.vip##.box_item_berlangganan
+194.163.183.129##.box_item_berlangganan_popup
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 greget.space,siherp.com,tetew.info##.c-message > div:nth-of-type(1)
@@ -1371,6 +1379,7 @@ mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
 bharian.com.my##.center-block.img-responsive
+news.okezone.com##.center-paralax
 dramaqu.net##.cfmonitor
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
@@ -1408,6 +1417,7 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 winpoin.com##.feedme-header-desktop.adsbygoogle
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
+news.okezone.com##.flying_ads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
@@ -1429,7 +1439,7 @@ nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
-103.194.171.75,dutafilm.observer,dutafilm.us##.imgbanner
+103.194.171.75,dutafilm.cfd,dutafilm.observer,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
@@ -1504,6 +1514,7 @@ indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
+investor.id##.row > .show-desktop > div
 senimovie.info##.rsABlock
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
@@ -1557,6 +1568,7 @@ xx1.me##.top-bnner.lazy
 goblintv.xyz##.tutup.banner
 bioskopxxi.net,sinemakaca.com##.ujipopup
 128.199.102.111##.under-player-ad-mobile
+investor.id##.underlay-ad-text-box
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
@@ -1594,11 +1606,12 @@ nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
 bioskopkerenin.com,drakorindo.best##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
+otakudesu.watch##[href^="http://enakbet.link/"]
 bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 188.166.39.172##[href^="https://137.184.194.29/"]
-139.99.120.222,158.69.54.218,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,www.nontondramas.net##[href^="https://bit.ly/"]
+139.99.120.222,158.69.54.218,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 animexin.xyz##[href^="https://ligaciputra3.com"]
 194.163.183.129##[href^="https://luxury138.link/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
@@ -1626,6 +1639,7 @@ hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
 anoboy.org##a[href^="http://www.pencetpoker."]
 anoboy.digital##a[href^="https://144.126.241.203/"]
 animebatch.web.id,animeindo.co,animeku.tv,anoboy.digital,anoboy.org,bioskop168.pro,bioskopbos.com,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,kazefuri.web.id,layarindo21.pro,lk-21.me,lk21c.fun,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontondramas.com,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,subindo.id##a[href^="https://bit.ly/"]
+194.163.183.129##a[href^="https://cek.to/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,drakorindo.tv,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,serunonton.com##a[href^="https://goo.gl/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]

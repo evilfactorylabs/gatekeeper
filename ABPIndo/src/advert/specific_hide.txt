@@ -17,6 +17,9 @@ downloadfilmbaru.com###ads-stack
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
 kontan.co.id###adsoutsream
+detik.com###adv-caption-lead
+detik.com###adv-caption-mr1
+detik.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -142,8 +145,9 @@ b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
-5.182.209.205###le_header_ads
+5.182.209.205,filmapik.kim###le_header_ads
 kabar2.com###leaderboard
+detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
 www.lingohut.com###lht2_lesson_bottom_300x250_phone
@@ -245,6 +249,7 @@ sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 indoxximovie.com##._ning_link.strack_cli
 clip.cewecewe.com##.ad
+investor.id##.ad-box-wrappr
 senimovie.info,senimovies.net##.ad-float-image
 wartaekonomi.co.id##.ad-inventory-wrapper
 www.parapuan.co##.ad-photo
@@ -315,6 +320,7 @@ kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
 139.99.33.192##.banner-float-bottom
+51.81.238.0##.banner-float-bottom-2.banner-float-bottom
 www.kompasiana.com##.banner-gennie.banner
 164.68.127.15##.banner-img
 dewabioskop21.asia,dewabioskop21.org##.banner-left
@@ -389,8 +395,8 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 otakuindo.org##.box_banner
-194.163.183.129##.box_item_berlangganan_popup
 neonime.com,neonime.vip##.box_item_berlangganan
+194.163.183.129##.box_item_berlangganan_popup
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 greget.space,siherp.com,tetew.info##.c-message > div:nth-of-type(1)
@@ -399,6 +405,7 @@ mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
 bharian.com.my##.center-block.img-responsive
+news.okezone.com##.center-paralax
 dramaqu.net##.cfmonitor
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
@@ -436,6 +443,7 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 winpoin.com##.feedme-header-desktop.adsbygoogle
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
+news.okezone.com##.flying_ads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
@@ -457,7 +465,7 @@ nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
-103.194.171.75,dutafilm.observer,dutafilm.us##.imgbanner
+103.194.171.75,dutafilm.cfd,dutafilm.observer,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
@@ -532,6 +540,7 @@ indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
+investor.id##.row > .show-desktop > div
 senimovie.info##.rsABlock
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
@@ -585,6 +594,7 @@ xx1.me##.top-bnner.lazy
 goblintv.xyz##.tutup.banner
 bioskopxxi.net,sinemakaca.com##.ujipopup
 128.199.102.111##.under-player-ad-mobile
+investor.id##.underlay-ad-text-box
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
@@ -627,7 +637,7 @@ bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 188.166.39.172##[href^="https://137.184.194.29/"]
-139.99.120.222,158.69.54.218,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,www.nontondramas.net,otakudesu.watch##[href^="https://bit.ly/"]
+139.99.120.222,158.69.54.218,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 animexin.xyz##[href^="https://ligaciputra3.com"]
 194.163.183.129##[href^="https://luxury138.link/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
