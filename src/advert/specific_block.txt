@@ -1,3 +1,5 @@
+.gif$domain=dunia21.club,image
+.gif$domain=dutafilm.cfd,image
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 /assets/*.gif$image,domain=149.56.24.226
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
