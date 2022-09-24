@@ -67,6 +67,7 @@
 -misiqq-$image
 -murnibet-$image
 -mutiarapoker.gif|$image
+-obcbet.gif$image
 -oppabetnew.$image
 -pokerindo-$image
 -priaqq-728-$image
