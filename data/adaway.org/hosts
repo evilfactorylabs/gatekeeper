@@ -3056,9 +3056,6 @@
 127.0.0.1 image.cauly.co.kr
 127.0.0.1 xconf.cauly.co.kr
 
-# [cbsi.com]
-127.0.0.1 production-cmp.isgprivacy.cbsi.com
-
 # [cbsnews.com]
 127.0.0.1 tealium.cbsnews.com
 
@@ -3496,10 +3493,6 @@
 
 # [count.ly]
 127.0.0.1 count.ly
-
-# [coveo.com]
-127.0.0.1 static.cloud.coveo.com
-127.0.0.1 cloudplatform.coveo.com
 
 # [cox.com]
 127.0.0.1 smetrics.cox.com
@@ -8560,9 +8553,6 @@
 # [qgraph.io]
 127.0.0.1 sdk.api.qgraph.io
 
-# [qikify.com]
-127.0.0.1 sdk.qikify.com
-
 # [qq.com]
 127.0.0.1 lcsdk.3g.qq.com
 127.0.0.1 masdk.3g.qq.com
@@ -8677,7 +8667,6 @@
 127.0.0.1 client.rave-api.com
 
 # [ravm.tv]
-127.0.0.1 ravm.tv
 127.0.0.1 display.ravm.tv
 127.0.0.1 hb-t5u9.raps.ravm.tv
 
@@ -9635,7 +9624,6 @@
 127.0.0.1 auth.split.io
 127.0.0.1 cdn.split.io
 127.0.0.1 events.split.io
-127.0.0.1 sdk.split.io
 
 # [splkmobile.com]
 127.0.0.1 api.splkmobile.com

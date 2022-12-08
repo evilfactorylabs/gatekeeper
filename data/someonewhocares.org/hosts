@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 21 Sep 2022 at 07:07:25 GMT
+# Last updated: Mon, 05 Dec 2022 at 02:16:54 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -869,6 +869,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.revsci.net
 0.0.0.0 justtrck.com
+0.0.0.0 k.clarity.ms
 0.0.0.0 kissmetrics.com
 0.0.0.0 kqzyfj.com
 0.0.0.0 kt4.kliptracker.com
@@ -2500,6 +2501,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mobpushup.com
 0.0.0.0 moddb.fr
 0.0.0.0 mojn.com
+0.0.0.0 momatyn.store
 0.0.0.0 momentspa.fr
 0.0.0.0 mon-conertisseur.fr
 0.0.0.0 monbureaunumeriques.fr
@@ -8342,6 +8344,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 parafiaukta.pl
 0.0.0.0 parronnotandone.info
 0.0.0.0 parskabab.com
+0.0.0.0 partner-api.jobbio.com
 0.0.0.0 partner-ts.groupon.be
 0.0.0.0 partner-ts.groupon.co.uk
 0.0.0.0 partner-ts.groupon.com
