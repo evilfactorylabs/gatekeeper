@@ -1,6 +1,6 @@
 173.199.167.192,krucil.com,krucil.net###KD_adpB
-perawabokep.cam,perawanbokep.cam###ads
-164.132.158.237###adsic364x90-bokep
+malemjumat.lol,perawabokep.cam,perawanbokep.cam###ads
+139.99.33.222###adsimgxatas2
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
@@ -10,7 +10,7 @@ unyil.net###float-atas
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
-154.12.229.9,indosemi45.org,manhwaid.org###ouibounce-modal
+154.12.229.9,207.244.225.48,indosemi45.org,manhwaid.org###ouibounce-modal
 iyottube.com###playerOverlay
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
@@ -19,6 +19,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
+doujinlands.com,komik18.art,komikdewasa.me,komikmanhwa.me,manhwaindo.me###teaser3
 sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
@@ -31,17 +32,18 @@ indobokepz.com##.adBar-vertical.right
 semprot.com#@#.adVertical
 mediahiburan.my##.adplaceholder-mrec
 154.26.132.73,194.233.87.224##.banner-img
-manhwahentai.me,manytoon.com,www.webtoon.xyz##.c-ads.ad
-bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
+68.65.123.84,avtub.sx,simontok.cx##.blocker.jquery-modal
+139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
-indosemi45.org##.idmuvi-banner-beforecontent
-manhwaland.mom,manhwaland.top,manhwalist.com##.kln
+komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
+komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
+207.244.225.48##.underlay
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 173.249.49.204##[href="https://bit.ly/idx-xx"]
 139.99.33.205##[href^="https://bit.ly/"]
