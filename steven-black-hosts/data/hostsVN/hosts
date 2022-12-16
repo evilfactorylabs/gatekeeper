@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 06 Dec 2022 22:58 UTC+7
-# Version: 2212062258
-# Blocked: 1.712 domains
+# Last modified: 15 Dec 2022 11:23 UTC+7
+# Version: 2212151123
+# Blocked: 1,720 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1247,7 +1247,12 @@
 0.0.0.0 ccxj.opencoccoc.com
 0.0.0.0 sr.opencoccoc.com
 #[aiactiv.io]
+0.0.0.0 adnetwork-adserver.aiactiv.io
+0.0.0.0 adnetwork-core-lb7.aiactiv.io
+0.0.0.0 adnetwork-core.aiactiv.io
+0.0.0.0 identify.aiactiv.io
 0.0.0.0 sdk-cdn.aiactiv.io
+0.0.0.0 static.aiactiv.io
 0.0.0.0 tag-cdn.aiactiv.io
 0.0.0.0 tags.aiactiv.io
 #[smartadnetwork.net]
@@ -1384,6 +1389,7 @@
 0.0.0.0 ad.sunflower.vn
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.vkool.net
+0.0.0.0 ad.vkoolzzz.net
 0.0.0.0 ad.zinimedia.com
 0.0.0.0 adadmin.headlines.pw
 0.0.0.0 adapi.tuyensinh247.com
@@ -1401,6 +1407,7 @@
 0.0.0.0 ads-cdn.fptplay.net
 0.0.0.0 ads.1thegioi.vn
 0.0.0.0 ads.568play.vn
+0.0.0.0 ads.6svn.com
 0.0.0.0 ads.admatrix.vn
 0.0.0.0 ads.alophim.org
 0.0.0.0 ads.autonet.com.vn
@@ -1449,6 +1456,7 @@
 0.0.0.0 ads.vovlive.vn
 0.0.0.0 ads.xedoisong.vn
 0.0.0.0 ads.xemphimso.com
+0.0.0.0 ads.xemtivisohd.net
 0.0.0.0 ads1.careerbuilder.vn
 0.0.0.0 ads8.fpt.vn
 0.0.0.0 adserver.lag.vn
@@ -1640,6 +1648,7 @@
 0.0.0.0 analytics.diamondstarfinancial.com.vn
 0.0.0.0 analytics.evgcdn.net
 0.0.0.0 analytics.fsoft.com.vn
+0.0.0.0 analytics.hebela.vn
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.jamstackvietnam.com
 0.0.0.0 analytics.mfocus.vn
@@ -1828,7 +1837,6 @@
 0.0.0.0 track.lapa.pub
 0.0.0.0 track.lemonnovel.com
 0.0.0.0 track.pnj.com.vn
-0.0.0.0 track.rentracks.com.vn
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.vio.edu.vn
 0.0.0.0 tracker.anime47.com
