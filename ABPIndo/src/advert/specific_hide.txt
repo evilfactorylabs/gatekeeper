@@ -1,6 +1,5 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
-nanimex.in###iklanFloat
 indogamers.com###IklanIDGS
 lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
@@ -130,6 +129,7 @@ lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
+nanimex.in###iklanFloat
 185.231.223.76###iklap
 185.231.223.76###iklhead
 lk21.web.id###ilang1
@@ -176,7 +176,7 @@ drakorindo.best,gatsunime.org,giladrakor.com,layarkeren.site###ouibounce-modal
 149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
-65.108.132.145,oploverz.bz###overplay
+15.235.11.45,65.108.132.145,oploverz.bz###overplay
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
 idxx1.top###player-side-left
@@ -216,9 +216,9 @@ tribunnews.com###skinads
 log.viva.co.id###skinframe-ad-left
 harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
-65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,mangashiro.net,neumanga.tv,oploverz.fan###teaser1
+15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,mangashiro.net,neumanga.tv,oploverz.fan###teaser1
 22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,komiku.net,movie76.net,nontonmovie.web.id###teaser2
-22cinema.download,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,movie76.net,nontonmovie.web.id###teaser3
+15.235.11.45,22cinema.download,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,movie76.net,nontonmovie.web.id###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
 dunia21.top,lk21.cc###tengah > span
@@ -341,6 +341,10 @@ www.sonora.id##.banner-skin--right
 modifikasi.com##.banner-top
 suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
+bisnis.com##.banner.billboardBig.billboard
+bisnis.com##.banner.billboardBottom
+bisnis.com##.banner.billboardRectangle.billboard
+bisnis.com##.banner.billboardTop.billboard
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
 kompas.com##.bannerAdB
@@ -446,6 +450,8 @@ dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 news.okezone.com##.flying_ads
+bisnis.com##.flying_carpet_show
+bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 samehadaku.win##.gambarku
@@ -566,8 +572,9 @@ manganime.in##.separator
 republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
 oploverz.bz##.sg-popup-content
-65.108.132.145##.sgpb-popup-dialog-main-div-wrapper
+15.235.11.45,65.108.132.145##.sgpb-popup-dialog-main-div-wrapper
 65.108.132.145,oploverz.bz##.sgpb-popup-overlay
+15.235.11.45##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
 kompas.com##.show.ol_promo
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
@@ -587,6 +594,8 @@ tirto.id##.skinner-left
 tirto.id##.skinner-right
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
+bisnis.com##.skyscrapper--left
+bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
@@ -641,6 +650,7 @@ anoboy.media##[href="https://bit.ly/anoboySG88"]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
+15.235.11.45##[href="https://yukclick.me/oploverzpopluxury111"]
 kazefuri.web.id##[href="javascript:showHideGB()"]
 nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
