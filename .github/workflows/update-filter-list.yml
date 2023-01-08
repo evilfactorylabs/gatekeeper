@@ -1,0 +1,28 @@
+on:
+  workflow_dispatch:
+    schedule:
+      - cron: "0 0 * * SUN"
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of the personal access token.
+          fetch-depth: 0  # otherwise, there would be errors pushing refs to the destination repository.
+      - name: Clone repository
+        uses: GuillaumeFalourd/clone-github-repo-action@v2
+        with:
+          owner: evilfactorylabs
+          repository: gatekeeper
+      - name: Run update script
+        run: |
+          cd gatekeeper
+          bash update.sh
+      - name: Commit and push
+        uses: GuillaumeFalourd/git-commit-push@v1.3
+        with:
+          access_token: ${{ secrets.PAT }}
+          commit_message: "chore: update filter list"
