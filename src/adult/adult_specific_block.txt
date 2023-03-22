@@ -1,6 +1,4 @@
-.gif$domain=ceritaseksindo.com,image
-.gif$domain=malemjumat.biz,image
-.gif$domain=malemjumat.lol,image
+.gif$image,domain=komikmanhwa.me
 ||96.43.139.236/banner/$image
 ||96.43.139.237/banner/$image
 ||bintangmawar.net/forum/bot_banner.php
@@ -10,7 +8,7 @@
 ||duniasex.ws/banner-
 ||indobokepz.com/images/banner/
 ||krucil.net/banner/
+||malemjumat.mom/banner/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
-||vast.pornhd.asia/bnl/*.gif$image,third-party

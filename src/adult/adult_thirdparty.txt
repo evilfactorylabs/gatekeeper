@@ -50,6 +50,7 @@
 ||casinoclubpoker.com^$third-party
 ||casinopokercoin.com^$third-party
 ||cdpoker.com^$third-party
+||cds.bet^$image,third-party
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
@@ -91,6 +92,7 @@
 ||houseoftoto.com^$third-party
 ||infotogelharian.com^$third-party
 ||inipoker.com^$third-party
+||investopedia.today^
 ||ipoker.com^$third-party
 ||jagopoker.com^$third-party
 ||jayapoker.com^$third-party

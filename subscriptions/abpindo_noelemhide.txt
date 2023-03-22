@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202212201512
+! Version: 202303171324
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 20 Dec 2022 15:12 UTC
+! Last modified: 17 Mar 2023 13:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -104,7 +104,6 @@
 ||kotaksilver.casa^$third-party
 ||lokeriklan.com^$third-party
 ||luckyads.com^$third-party
-||luckyads.pro^$third-party
 ||lugtardam.com^$script
 ||luven.xyz^$popup
 ||masteriklan.net^$third-party
@@ -140,11 +139,9 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
-||rufadses.net^$third-party
 ||s2pops.club^$popup
 ||sanglah.com^$third-party
 ||sarapbeh.com^$third-party
-||sawnowepage.com^$third-party
 ||scriptall.ml^$popup,third-party
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$popup,third-party
@@ -185,7 +182,9 @@
 ||9icmzvn6.website^$popup
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
+||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
+||afdashrafi.com^
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||aopxnvrugx.com^$popup
@@ -222,9 +221,9 @@
 ||hegarberetrof.pro^$popup
 ||hoegutvie.com^$popup
 ||ihqfiimrbcf.com^$popup
+||isortflorent.com^
 ||iupqelechcmj.com^$popup,third-party
 ||iwtserve.com^$popup
-||jame3s67jo9yc4e.com^$script
 ||jillsclickcorner.com^$third-party
 ||jjekxle.com^$third-party
 ||jnwsrqxrdqct.top^$popup
@@ -240,7 +239,6 @@
 ||midgerelativelyhoax.com^
 ||mifsirnhvvrps.top^$popup
 ||misxgkvnlf.com^$popup
-||mormonwalty.com^$script
 ||motosal.net^$popup
 ||mousheen.net^$third-party
 ||naetoris.pw^$popup
@@ -251,7 +249,6 @@
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
 ||ourtherss.top^$third-party
-||owlunimmvn.com^$script
 ||pheersie.com^$popup
 ||phudrour.net^$popup
 ||pvwtkxcpsrcsd.com^
@@ -266,6 +263,7 @@
 ||shqbsdjatunl.com^$popup
 ||tidnqztumpnk.com^$popup
 ||tinfunshe.club^$script
+||torflegorb.com^
 ||trendlope.com^$third-party
 ||trvwjyjgkgeagd.com^
 ||tsyndolls.com^$popup
@@ -358,11 +356,7 @@
 /wpsafelink$script,third-party
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$domain=dunia21.club,image
-.gif$domain=dutafilm.cfd,image
-.gif$domain=lk21official.org,image
-.gif$image,domain=15.235.11.45|anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21official.biz|lk21tv.com|movieajip.online
-/assets/*.gif$image,domain=149.56.24.226
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.org|lk21tv.com|movieajip.online|oploverz.tv|otakudesu.ltd
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -487,6 +481,7 @@ iklan300x250.gif|
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=ganool.li
 ||images.gameweb.co.id/gw/ads/
+||img.gm21.download/*.webp$image
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
@@ -756,6 +751,7 @@ totolink.id#@#.social-circle
 -hokicapsa-$image
 -hokiqq-$image
 -incarqq.$image
+-indo-bokep-banner-$image
 -indomaxbet-$image
 -indopokerlink-$image
 -itubandar-$image
@@ -788,6 +784,7 @@ totolink.id#@#.social-circle
 -ligaqq.$image
 -lonteqq-$image
 -lotus2d1.$image
+-macaubet.gif$image
 -melatipoker-$image
 -misiqq-$image
 -murnibet-$image
@@ -831,6 +828,7 @@ totolink.id#@#.social-circle
 /720x90-jkt2u-$image
 /728-x-90-$image
 /ADLVSLOT.webp$image
+/Agen-Judi-Online-Terpercaya.gif$image
 /BANNER-liga88-$image
 /BETSLOT.gif|$image
 /Banner-Bandar303.gif|$image
@@ -839,6 +837,8 @@ totolink.id#@#.social-circle
 /Betcoin-$image
 /DEWALIVE_$image
 /Dazbet.gif$image
+/Dewatogel-$image
+/Gacor88.webp|$image
 /HOKI69.gif|$image
 /IBCDOMINO.gif$image
 /IDRBET.gif$image
@@ -853,12 +853,15 @@ totolink.id#@#.social-circle
 /MacauDewa-$image
 /NIKMATIQQ.$image
 /PESBOLA-$image
+/PINK4D.webp|$image
 /PISANGBET-$image
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
 /QQ36Bet-$image
 /SBOBETMAIN-$image
+/SBOslot138.webp$image
+/SLOT-GACOR.gif$image
 /TOTOBET-$image
 /TOTOKL-NEW.gif$image
 /TelurQQ.gif|$image
@@ -924,12 +927,15 @@ totolink.id#@#.social-circle
 /betsaja-$image
 /bigwin-banner-$image
 /bijitogel-$image
+/bisnis4d-
 /bokep-update.gif|$image
 /bolagila-$image
 /bolavegas-$image
 /bolavita-$image
 /bosqq.$image
 /bursabet-$image
+/buyspinslot-
+/buyspinslot.gif$image
 /cantikqq-$image
 /capsa365.gif|$image
 /captainqq.gif$image
@@ -964,6 +970,7 @@ totolink.id#@#.social-circle
 /emoqq-$image
 /enakbet-$image
 /enakbet.gif|$image
+/enakslot-$image
 /enakslot.gif|$image
 /eyang-togel-$image
 /eze99.$image
@@ -1019,6 +1026,7 @@ totolink.id#@#.social-circle
 /jpslot88-$image
 /jual_obat_aborsi_$image
 /juaracapsa-$image
+/kaikoslot-
 /kartu-online.gif|
 /kartuhoki-$image
 /kd777.gif|$image
@@ -1093,6 +1101,7 @@ totolink.id#@#.social-circle
 /pancatoto.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
+/pentaslot-$image
 /pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
@@ -1113,7 +1122,6 @@ totolink.id#@#.social-circle
 /qq-simpati-$image
 /qq101_$image
 /qq188_$image
-/qq39-$image
 /qqangpao-$image
 /qqhok-gif$image
 /qqholic-$image
@@ -1419,6 +1427,7 @@ totojitu.gif|$image
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
 /idrbola.$image,third-party
+/idrbt.webp$image
 /idrpoker.$image,third-party
 /iklanqq.$image,third-party
 /iklanx.$image,third-party
@@ -1447,6 +1456,7 @@ totojitu.gif|$image
 /ituqq728.$image,third-party
 /itutoto.$image,third-party
 /ituvip.$image,third-party
+/ituvp.webp$image
 /ivopoker.$image,third-party
 /jagoanpoker.$image,third-party
 /jagodomino.$image,third-party
@@ -1466,6 +1476,7 @@ totojitu.gif|$image
 /jokerqq.$image,third-party
 /josbet.$image,third-party
 /jppoker.$image,third-party
+/JUDIKARTU.gif|$image
 /Kaikoslot.webp$image
 /kampusbet.$image,third-party
 /kaptenpoker.$image
@@ -1480,6 +1491,7 @@ totojitu.gif|$image
 /ketuapokernew.$image,third-party
 /king4d.$image,third-party
 /kiosqq.$image
+/KLIKHOKI-$image
 /klikkiu.$image,third-party
 /klikqq.$image,third-party
 /koinhoki.$image,third-party
@@ -1586,7 +1598,7 @@ totojitu.gif|$image
 /pasangnomor2.$image,third-party
 /pemaintogel.$image,third-party
 /pendekarqq.$image,third-party
-/Pentaslot.webp$image
+/Pentaslot.$image
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
 /pialaqq.$image,third-party
