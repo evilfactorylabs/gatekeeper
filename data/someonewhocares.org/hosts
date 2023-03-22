@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 15 Dec 2022 at 03:07:15 GMT
+# Last updated: Mon, 20 Mar 2023 at 04:52:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1050,7 +1050,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 s.clickability.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.update.fbsbx.com 
-0.0.0.0 s.youtube.com				# Blocking this will interfere with video watching history
+0.0.0.0 s.youtube.com				# Blocking this will interfere with video watching history and may interfere with Google Podcasts
 0.0.0.0 s1-tracking.adalyser.com
 0.0.0.0 s1.shinystat.it
 0.0.0.0 s10.histats.com
@@ -2223,6 +2223,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 install.myvideotab.com
 0.0.0.0 installmac.com
 0.0.0.0 instantstreetview.fr
+0.0.0.0 interac-etransfer.net
 0.0.0.0 interhomes.fr
 0.0.0.0 interimairesssante.fr
 0.0.0.0 internwise.fr
@@ -2415,7 +2416,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 mail.bangla.net
 0.0.0.0 mail.cyberh.fr
 0.0.0.0 mail.hallym.ac.kr
-0.0.0.0 mail.hz.zh.cn
 0.0.0.0 mail.imamu.edu.sa
 0.0.0.0 mail.interq.or.jp
 0.0.0.0 mail.ioc.ac.ru
@@ -2423,10 +2423,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 mail.pmo.ac.cn
 0.0.0.0 mail.siom.ac.cn
 0.0.0.0 mail.tropmet.res.in
-0.0.0.0 mail.tsinghua.edu.cn
 0.0.0.0 mail1.371.net
 0.0.0.0 maillots-ffoot-actu.fr
-0.0.0.0 mails.cneic.com.cn
 0.0.0.0 mailtrack.fr
 0.0.0.0 main.exosrv.com
 0.0.0.0 maisonstravaux.fr
@@ -2707,6 +2705,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 prk.roverinvolv.bid
 0.0.0.0 pro-accesssoires.fr
 0.0.0.0 probikesshop.fr
+0.0.0.0 profilenetflix.com
 0.0.0.0 profit-btc.org
 0.0.0.0 proflashdata.com			# Facebook trojan
 0.0.0.0 proidees.fr
@@ -2927,6 +2926,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tiplanet.fr
 0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
+0.0.0.0 toppillstore.com
 0.0.0.0 toprxshopplace.com
 0.0.0.0 toptypeonlinetheclicks.icu
 0.0.0.0 torjackan.info
@@ -3167,7 +3167,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
-0.0.0.0 www.siom.ac.cn
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.tanger.com.br
@@ -4591,10 +4590,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.baidu.com
+0.0.0.0 a.blesk.cz 
 0.0.0.0 a.boom.ro
 0.0.0.0 a.cctv.com
+0.0.0.0 a.centrum.cz 
 0.0.0.0 a.cntv.cn
+0.0.0.0 a.denik.cz 
 0.0.0.0 a.dynad.net
+0.0.0.0 a.iprima.cz 
 0.0.0.0 a.kerg.net
 0.0.0.0 a.libertystmedia.com
 0.0.0.0 a.ligatus.com
@@ -4604,6 +4607,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
 0.0.0.0 a.rad.msn.com
+0.0.0.0 a.slunecnice.cz
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.total-media.net
@@ -9465,7 +9469,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
-0.0.0.0 udec.cl
 0.0.0.0 uedata.amazon.com
 0.0.0.0 uelbdc74fn.s.ad6media.fr
 0.0.0.0 ugo.eu-adcenter.net
@@ -10473,7 +10476,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www2.gorillavid.in
 0.0.0.0 www2.pubdirecte.com
 0.0.0.0 www2.tpgi.com.au
-0.0.0.0 www2.udec.cl
 0.0.0.0 www2.wyylde.com
 0.0.0.0 www2.zapadserver1.com
 0.0.0.0 www210.paypopup.com
