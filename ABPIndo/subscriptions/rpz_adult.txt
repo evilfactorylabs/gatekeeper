@@ -89,7 +89,6 @@ klikajadeh.com CNAME .
 kotaksilver.casa CNAME .
 lokeriklan.com CNAME .
 luckyads.com CNAME .
-luckyads.pro CNAME .
 lugtardam.com CNAME .
 luven.xyz CNAME .
 masteriklan.net CNAME .
@@ -125,11 +124,9 @@ promotioncamp.com CNAME .
 props.id CNAME .
 publish.web.id CNAME .
 pusatiklan.com CNAME .
-rufadses.net CNAME .
 s2pops.club CNAME .
 sanglah.com CNAME .
 sarapbeh.com CNAME .
-sawnowepage.com CNAME .
 scriptall.ml CNAME .
 sebar.idblognetwork.com CNAME .
 see-work.info CNAME .
@@ -169,7 +166,9 @@ yx-ads6.com CNAME .
 9icmzvn6.website CNAME .
 a63t9o1azf.com CNAME .
 abrts.pro CNAME .
+adeumssp.com CNAME .
 afbcashidr.com CNAME .
+afdashrafi.com CNAME .
 ahcnxuepput.com CNAME .
 aj1052.online CNAME .
 aopxnvrugx.com CNAME .
@@ -206,9 +205,9 @@ ghaahq.com CNAME .
 hegarberetrof.pro CNAME .
 hoegutvie.com CNAME .
 ihqfiimrbcf.com CNAME .
+isortflorent.com CNAME .
 iupqelechcmj.com CNAME .
 iwtserve.com CNAME .
-jame3s67jo9yc4e.com CNAME .
 jillsclickcorner.com CNAME .
 jjekxle.com CNAME .
 jnwsrqxrdqct.top CNAME .
@@ -224,7 +223,6 @@ lsgqlgoc.com CNAME .
 midgerelativelyhoax.com CNAME .
 mifsirnhvvrps.top CNAME .
 misxgkvnlf.com CNAME .
-mormonwalty.com CNAME .
 motosal.net CNAME .
 mousheen.net CNAME .
 naetoris.pw CNAME .
@@ -235,7 +233,6 @@ olenation.org CNAME .
 olkrzytv.com CNAME .
 olmsoneenh.info CNAME .
 ourtherss.top CNAME .
-owlunimmvn.com CNAME .
 pheersie.com CNAME .
 phudrour.net CNAME .
 pvwtkxcpsrcsd.com CNAME .
@@ -250,6 +247,7 @@ shiiticprating.com CNAME .
 shqbsdjatunl.com CNAME .
 tidnqztumpnk.com CNAME .
 tinfunshe.club CNAME .
+torflegorb.com CNAME .
 trendlope.com CNAME .
 trvwjyjgkgeagd.com CNAME .
 tsyndolls.com CNAME .
@@ -339,6 +337,7 @@ caramenangtogel.com CNAME .
 casinoclubpoker.com CNAME .
 casinopokercoin.com CNAME .
 cdpoker.com CNAME .
+cds.bet CNAME .
 celebpoker.com CNAME .
 chilipoker.com CNAME .
 clickadu.com CNAME .
@@ -380,6 +379,7 @@ hotpokerbonus.com CNAME .
 houseoftoto.com CNAME .
 infotogelharian.com CNAME .
 inipoker.com CNAME .
+investopedia.today CNAME .
 ipoker.com CNAME .
 jagopoker.com CNAME .
 jayapoker.com CNAME .
