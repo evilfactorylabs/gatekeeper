@@ -104,6 +104,7 @@
 /28bet.$image
 /365agen-$image
 /365qiuqiu-$image
+/388hero-$image
 /526bet-$image
 /720x90-jkt2u-$image
 /728-x-90-$image
@@ -115,6 +116,8 @@
 /Banner-Poker$image
 /Banner-Suhubola-$image
 /Betcoin-$image
+/CIKASLOT-$image
+/CMD368-SLOT.gif|$image
 /DEWALIVE_$image
 /Dazbet.gif$image
 /Dewatogel-$image
@@ -132,6 +135,7 @@
 /MEJAHOKI.gif|$image
 /MacauDewa-$image
 /NIKMATIQQ.$image
+/NewPentaSlot.gif|$image
 /PESBOLA-$image
 /PINK4D.webp|$image
 /PISANGBET-$image
@@ -208,6 +212,7 @@
 /bigwin-banner-$image
 /bijitogel-$image
 /bisnis4d-
+/bisnis4d.gif|$image
 /bokep-update.gif|$image
 /bolagila-$image
 /bolavegas-$image
@@ -339,6 +344,7 @@
 /luxury777.gif|
 /lvo888.$image
 /macau442.gif|$image
+/macaubet-$image
 /mainqq-$image
 /majuqq-$image
 /mamibit-$image
@@ -382,7 +388,6 @@
 /pemainkasino-$image
 /pendekarqq-$image
 /pentaslot-$image
-/pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
 /poker7club-$image
@@ -487,6 +492,7 @@
 /zonaprediksi.$image
 /zyngaqq.$image
 CapsaQQ.gif|$image
+NewKaikoSlot.gif|$image
 _balaksix_$image
 _gobetx.$image
 _indokasino.$image
@@ -582,6 +588,7 @@ totojitu.gif|$image
 /bandarqterpercaya.$image,third-party
 /bandarsakong.$image,third-party
 /bandartaruhan.$image,third-party
+/bandarxl.gif|$image
 /bandarxlnew.$image
 /bcadomino.$image,third-party
 /beliqq.$image,third-party
@@ -677,6 +684,7 @@ totojitu.gif|$image
 /hdpbola.$image,third-party
 /hebatqq.$image,third-party
 /hjtowin.$image,third-party
+/hkindo.webp$image
 /hkpool.$image,third-party
 /hm88poker.$image,third-party
 /hobi88.$image,third-party
@@ -992,6 +1000,7 @@ totojitu.gif|$image
 /tangkaskita.$image,third-party
 /tangkaspro.$image,third-party
 /tatacasino.$image,third-party
+/Tato888.webp|$image
 /tatobet.$image,third-party
 /texaspoker.$image,third-party
 /texasqq.$image,third-party
