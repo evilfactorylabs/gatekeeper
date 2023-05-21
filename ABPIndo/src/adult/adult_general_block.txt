@@ -267,7 +267,6 @@
 /gdgpkr200-$image
 /gerhanaqq-$image
 /gilapoker-$image
-/gitartogel.gif|$image
 /goalgoal365-$image
 /goodbola-bannerfilm.gif|
 /hahatogel-gif$image
@@ -528,10 +527,12 @@ totojitu.gif|$image
 /1xliga.$image,third-party
 /233bet.$image,third-party
 /365indopoker.$image
+/388hero.gif$image
 /388poker.$image,third-party
 /526bet.$image
 /5pusbet.$image
 /7upcash-530.$image
+/8080SPORT.$image,third-party
 /899cash.$image,third-party
 /abgqqnew.$image,third-party
 /acerpoker.$image,third-party
@@ -548,6 +549,7 @@ totojitu.gif|$image
 /agenvimaxindo.$image,third-party
 /agungpoker.$image,third-party
 /ahabet.$image,third-party
+/AHABET.webp$image
 /ahabetx900.$image
 /ahliqq.$image,third-party
 /alampoker.$image,third-party
@@ -611,6 +613,7 @@ totojitu.gif|$image
 /bospoker.$image,third-party
 /bromopoker.$image,third-party
 /brotogel.$image,third-party
+/BROVEGAS.$image,third-party
 /bsakong1.$image,third-party
 /bsakong2.$image,third-party
 /buanabet.$image,third-party
@@ -677,6 +680,8 @@ totojitu.gif|$image
 /garudaqq.$image,third-party
 /gebyarbola.$image,third-party
 /gebyarliga.$image,third-party
+/GITARTOGEL-$image
+/GITARTOGEL.$image,third-party
 /guepoker.$image,third-party
 /halobos.$image,third-party
 /hanabet.$image,third-party
@@ -684,7 +689,7 @@ totojitu.gif|$image
 /hdpbola.$image,third-party
 /hebatqq.$image,third-party
 /hjtowin.$image,third-party
-/hkindo.webp$image
+/hkindo.$image,third-party
 /hkpool.$image,third-party
 /hm88poker.$image,third-party
 /hobi88.$image,third-party
@@ -715,7 +720,7 @@ totojitu.gif|$image
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
 /idrbola.$image,third-party
-/idrbt.webp$image
+/idrbt.webp$image,third-party
 /idrpoker.$image,third-party
 /iklanqq.$image,third-party
 /iklanx.$image,third-party
@@ -763,6 +768,7 @@ totojitu.gif|$image
 /jokermerah.$image,third-party
 /jokerqq.$image,third-party
 /josbet.$image,third-party
+/JPDEWA.$image
 /jppoker.$image,third-party
 /JUDIKARTU.gif|$image
 /Kaikoslot.webp$image
@@ -773,6 +779,7 @@ totojitu.gif|$image
 /kartuking.$image,third-party
 /kasinobet.$image,third-party
 /kaspemain.$image,third-party
+/kdslot.gif|$image,third-party
 /kdslots.$image,third-party
 /ketuapkr.$image,third-party
 /ketuapoker.$image,third-party
@@ -886,7 +893,7 @@ totojitu.gif|$image
 /pasangnomor2.$image,third-party
 /pemaintogel.$image,third-party
 /pendekarqq.$image,third-party
-/Pentaslot.$image
+/Pentaslot.$image,third-party
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
 /pialaqq.$image,third-party
@@ -898,7 +905,7 @@ totojitu.gif|$image
 /pokergalaxy.$image,third-party
 /PokerHalo.$image,third-party
 /pokerintan.$image,third-party
-/pokerkiu.$image
+/pokerkiu.$image,third-party
 /pokermas99.$image,third-party
 /pokermon24.$image,third-party
 /pokerpromo.$image,third-party
@@ -910,11 +917,11 @@ totojitu.gif|$image
 /pop-grand77.$image,third-party
 /prediksisingapore.$image,third-party
 /prediksitogeljitu.$image,third-party
-/probet24.$image
+/probet24.$image,third-party
 /promosi365.$image,third-party
 /pusatqq.$image,third-party
 /qbandars.$image,third-party
-/qq1bet.$image
+/qq1bet.$image,third-party
 /qqalfa.$image,third-party
 /qqasli.$image,third-party
 /qqdewa.$image,third-party
@@ -923,7 +930,7 @@ totojitu.gif|$image
 /qqjempol.$image,third-party
 /qqjoker.$image,third-party
 /qqnalo.$image,third-party
-/qqpedia.$image
+/qqpedia.$image,third-party
 /qqpilihan.$image,third-party
 /qqpokerplay.$image,third-party
 /qqsamsung.$image,third-party
@@ -946,10 +953,13 @@ totojitu.gif|$image
 /rgobetnew.$image,third-party
 /rgocasino.$image,third-party
 /rgosky.$image,third-party
+/ronaldo4d-$image
+/ronaldo4d.gif$image
 /royalbola.$image,third-party
 /royaljackpot.$image,third-party
 /royalkasino.$image,third-party
 /royalpoker99.$image,third-party
+/royalslot88-$image
 /ruangQQ.$image,third-party
 /rumahbokep.$image,third-party
 /sahabatarena.$image,third-party
@@ -969,6 +979,7 @@ totojitu.gif|$image
 /sentanapoker.$image,third-party
 /sentosa88.$image,third-party
 /seomarina365.$image,third-party
+/SEPAKBOLACC.$image,third-party
 /serbakas88.$image,third-party
 /serbaqq.$image,third-party
 /sevenbola.$image,third-party
@@ -1003,6 +1014,10 @@ totojitu.gif|$image
 /Tato888.webp|$image
 /tatobet.$image,third-party
 /texaspoker.$image,third-party
+/TEXASPOKERCC-$image
+/TEXASPOKERCC.$image,third-party
+/texaspokercc.gif|$image
+/TEXASPOKERCC.webp$image
 /texasqq.$image,third-party
 /togel212.$image,third-party
 /togelbet.$image,third-party
@@ -1020,6 +1035,7 @@ totojitu.gif|$image
 /tugupoker.$image,third-party
 /uanghoki88com.$image
 /ubcwin.$image,third-party
+/UBI777-NEW.gif$image
 /unikpoker.$image,third-party
 /utamaqq.$image,third-party
 /vegas78bet.$image,third-party
@@ -1028,8 +1044,8 @@ totojitu.gif|$image
 /venombet.$image,third-party
 /vimaxasli.$image,third-party
 /vimaxpills.$image,third-party
-/vipslot.$image
-/vipslot77.$image
+/vipslot.$image,third-party
+/vipslot77.$image,third-party
 /vivacm88.$image,third-party
 /vivobetting.$image,third-party
 /vodka728x90.$image,third-party
@@ -1046,6 +1062,8 @@ totojitu.gif|$image
 /wongpkr.$image,third-party
 /wongpoker.$image,third-party
 /ysbjaya88.$image,third-party
+/ZEUS8M.gif$image
+388hero.gif|$image
 ||116poker.$image,third-party
 ||116poker.$popup
 ||11juni.$image,third-party

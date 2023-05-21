@@ -1,6 +1,5 @@
 173.199.167.192,krucil.com,krucil.net###KD_adpB
-dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
-139.99.33.222###adsimgxatas2
+dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
@@ -14,7 +13,7 @@ kebokepanku.xyz,ruangbokep.top,streamingbokeponline.site###floating_bot
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
 154.12.229.9,207.244.225.48,indosemi45.org,manhwaid.org###ouibounce-modal
-iyottube.com###playerOverlay
+iyottube.co,iyottube.com###playerOverlay
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
@@ -52,11 +51,20 @@ lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 bokepid.wiki##[class^="xnxx5-"]
 173.249.49.204##[href="https://bit.ly/idx-xx"]
 komikmanhwa.me##[href="https://klik.fun/ZyslX"]
+anoboy.ink##[href="https://klik.gg/anoboy"]
+anoboy.ink##[href="https://klik.gg/anoboyvip"]
 manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
 139.99.33.205##[href^="https://bit.ly/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+anoboy.*###popup_bawah
+anoboy.*###popup_box
+anoboy.*##[href="https://klik.gg/anoboy"]
+anoboy.*##[href="https://klik.gg/anoboyvip"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
+dutasex.*###ads
 komikdewasa.*###teaser3
 komikdewasa.*##.kln
+komikindo.*##.ads
+perawanbokep.*###ads
