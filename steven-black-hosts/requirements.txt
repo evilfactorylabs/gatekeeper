@@ -1,2 +1,0 @@
-requests ~=2.20
-flake8 ~=4.0
