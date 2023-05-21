@@ -10,6 +10,9 @@ books-analytics-events.news.apple-dns.net
 books-analytics-events.apple.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
+supportmetrics.apple.com
+weather-analytics-events.apple.com
+weather-analytics-events.news.apple-dns.net
 
 # windows
 
