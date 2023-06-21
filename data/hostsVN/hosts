@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 20 Mar 2023 14:40 UTC+7
-# Version: 2303201440
-# Blocked: 1,790 domains
+# Last modified: 17 Jun 2023 21:26 UTC+7
+# Version: 2306172126
+# Blocked: 1,798 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -455,7 +455,6 @@
 0.0.0.0 stats.lab.zalo.ai
 #[zaloapp.com]
 0.0.0.0 centralized.zaloapp.com
-0.0.0.0 jp.zaloapp.com
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 stats.dev.zaloapp.com
@@ -488,7 +487,6 @@
 0.0.0.0 zalo-ads-480.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.zadn.vn
-0.0.0.0 zpsocial-f52-org.zadn.vn
 #[log-*.zadn.vn]
 0.0.0.0 log-anninhthudo.zadn.vn
 0.0.0.0 log-baobackan.zadn.vn
@@ -1113,9 +1111,6 @@
 0.0.0.0 static.subiz.com
 0.0.0.0 widget.subiz.com
 0.0.0.0 widgetv4.subiz.com
-#[sbz.vn]
-0.0.0.0 api.sbz.vn
-0.0.0.0 widget.sbz.vn
 #[subiz.net]
 0.0.0.0 api.subiz.net
 0.0.0.0 widget.subiz.net
@@ -1299,6 +1294,7 @@
 0.0.0.0 adnetwork-adserver.aiactiv.io
 0.0.0.0 adnetwork-core-lb7.aiactiv.io
 0.0.0.0 adnetwork-core.aiactiv.io
+0.0.0.0 aiactiv.io
 0.0.0.0 identify.aiactiv.io
 0.0.0.0 sdk-cdn.aiactiv.io
 0.0.0.0 static.aiactiv.io
@@ -1458,6 +1454,7 @@
 0.0.0.0 tracking.vtc.vn
 #[vtcnews.vn]
 0.0.0.0 delivery.vtcnews.vn
+0.0.0.0 track.vtcnews.vn
 #[vtcnew.com.vn]
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 tracking.vtcnew.com.vn
@@ -1465,6 +1462,17 @@
 0.0.0.0 m.zedcdn.me
 0.0.0.0 me.zedcdn.me
 0.0.0.0 mme.zedcdn.me
+#[aanetwork.vn]
+0.0.0.0 aanetwork.vn
+0.0.0.0 cdn.aanetwork.vn
+0.0.0.0 imgs2.aanetwork.vn
+0.0.0.0 pub.aanetwork.vn
+#[haravan.com]
+0.0.0.0 combo-omni.haravan.com
+0.0.0.0 socialloginplus-apps.haravan.com
+0.0.0.0 facebookinbox-omni-onapp.haravan.com
+0.0.0.0 promotion.haravan.com
+0.0.0.0 onapp.haravan.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1552,6 +1560,7 @@
 0.0.0.0 adserver.muaban.net
 0.0.0.0 adserver.trangphim.net
 0.0.0.0 adsgo.nhipcaudautu.vn
+0.0.0.0 adsphim.lol
 0.0.0.0 adsplus.vn
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 adsweb.vn
@@ -1637,10 +1646,8 @@
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 ng-vn-notice.gameitop.com
 0.0.0.0 offerwall.headlines.pw
-0.0.0.0 onapp.haravan.com
 0.0.0.0 openx.motgame.vn
 0.0.0.0 ox1.vietstock.vn
-0.0.0.0 promotion.haravan.com
 0.0.0.0 qc.5giay.vn
 0.0.0.0 qc.designervn.net
 0.0.0.0 qc.japo.vn
@@ -1783,10 +1790,10 @@
 0.0.0.0 event.headlines.pw
 0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 fa.fpt.shop
-0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 file-subiz.com
 0.0.0.0 follow.vnay.vn
+0.0.0.0 gtm.saostar.vn
 0.0.0.0 gtmjs.com
 0.0.0.0 hit.123c.vn
 0.0.0.0 intranet.dcorp.com.vn
@@ -1865,6 +1872,7 @@
 0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logscafef.channelvn.net
+0.0.0.0 logv3.metric.vn
 0.0.0.0 marketing.itgeek.vn
 0.0.0.0 matomo.quan.hoabinh.vn
 0.0.0.0 mautic.200lab.io
@@ -1889,7 +1897,6 @@
 0.0.0.0 s.kenh14.vn
 0.0.0.0 s.soha.vn
 0.0.0.0 smetrics.kone.vn
-0.0.0.0 socialloginplus-apps.haravan.com
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 stat.headlines.pw
 0.0.0.0 static.masoffer.net
@@ -1919,6 +1926,7 @@
 0.0.0.0 thongke.bookingcare.vn
 0.0.0.0 thongke.opencps.vn
 0.0.0.0 thongke.tcdulichtphcm.vn
+0.0.0.0 thongke.thethaovanhoa.vn
 0.0.0.0 thongke.vui.vn
 0.0.0.0 thongke99.baogiaothong.vn
 0.0.0.0 tr.topdevvn.com
@@ -1960,6 +1968,7 @@
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackity.tiki.vn
+0.0.0.0 traffic.vietnhan.co
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
 0.0.0.0 userstats.shopee.vn
