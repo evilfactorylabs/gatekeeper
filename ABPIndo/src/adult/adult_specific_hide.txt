@@ -8,7 +8,7 @@ bintangmawar.net###bmpop_adpB
 unyil.net###float-atas
 sangetods.net###floatads
 154.12.229.9,45.67.231.215,75.119.147.12###floating_banner_top1
-kebokepanku.xyz,ruangbokep.top,streamingbokeponline.site###floating_bot
+kamarbokep.xyz,kebokepanku.xyz,ruangbokep.sbs,ruangbokep.top,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
@@ -33,8 +33,9 @@ indobokepz.com##.adBar-vertical.right
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
 komikindo.info##.ads
-154.26.132.73,194.233.87.224##.banner-img
+154.26.132.73,194.233.87.224,bokepmobile.fun##.banner-img
 68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
+bokepkita.pro##.btm_ban
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
 komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
