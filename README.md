@@ -1,3 +1,6 @@
+> # Attention
+> This project is no longer maintained — learn more [here.](https://edgy.network/eol)
+
 # gatekeeper
 
 let's make the internet less sucks
